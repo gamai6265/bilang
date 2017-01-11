@@ -1,0 +1,252 @@
+﻿Id	PartPath	ChildType	ChildValue	InfluenceFactors	ExpectValues	DisplayName	RejectParts	AssociateFabricPart	IsDoubleSide	MetarialName1	MetarialName2	ColorPart	IsGlobalMetarial	IsMountPoint	IsDecorate	IsDefault	IsValid	SampleImage	HotPoint	HotPointRotation	HotPointHides	ViewPoint	ViewPointRotation	Weight	Instruction	IsObsolete	ModelSize
+1001	/Shirt	0						1273				1		1		1	1										
+1002	/Shirt/b_dangan	1				担干设计			0			1	0	1	0	1	1									0	
+1005	/Shirt/b_dangan/b_neidangan	1							0			1	0	1	0	1	1									0	
+1124	/Shirt/b_dangan/b_neidangan/neidangan10cm	0				10厘米高	1126		0	dangan02		1	0	0	0	0	1							0.07		1	shoulder_breadth_shirt
+1200	/Shirt/b_dangan/b_neidangan/danganzhedan	0				标准内肩8cm	1126		0	dangan02		1	0	0	0	1	1							0.07		1	
+1701	/Shirt/b_dangan/b_nabotiezhuangbutiao	1										1		1													
+1108	/Shirt/b_dangan/b_nabotiezhuangbutiao/nabotiezhuangbutiao05cm	0				肩部落撞布	1126		1	jianbujibian		1	0	0	0	0	1	PS012/nabotiezhuangbutiao0.5cm.jpg						0.07		1	shoulder_breadth_shirt
+1702	/Shirt/b_dangan/b_nabotiezhuangbutiao/b_wunabotiezhuangbutiao	0										0		1													
+1004	/Shirt/b_dangan/dangan	0				标准后肩			0	dangan01		1	0	0	0	1	1	PS012/jian.jpg						0.07		1	shoulder_breadth_shirt
+1703	/Shirt/b_dangan/b_nabodingjiajibian	1										1		1													
+1109	/Shirt/b_dangan/b_nabodingjiajibian/nabodingjiajibian	0				肩部车唧边			1	jianbujibian		1	0	0	0	0	1	PS012/nabodingjiajibian.jpg						0.07		1	shoulder_breadth_shirt
+1704	/Shirt/b_dangan/b_nabodingjiajibian/b_wunabodingjiajibian	0										0		1													
+1705	/Shirt/b_dangan/b_nabodingchejianpai	1										1		1													
+1110	/Shirt/b_dangan/b_nabodingchejianpai/nabodingchejianpai	0				肩部车肩牌			0	jianpai		1	0	0	0	0	1	PS012/nabodingchejianpai.jpg						0.07		1	shoulder_breadth_shirt
+1706	/Shirt/b_dangan/b_nabodingchejianpai/b_wunabodingchejianpai	0										0		1													
+1126	/Shirt/b_dangan/Vxingdanganbupozhong	2				V型担干不破中			0	dangan01		1	0	0	0	0	1							0.07		1	shoulder_breadth_shirt
+1722	/Shirt/b_dangan/b_danganzhongpogu+++	0										1		1													
+1125	/Shirt/b_dangan/b_danganzhongpogu+++/danganzhongpogu001	1				担干中破骨				dangan03		1	0	0	0	0	1							0.07		1	shoulder_breadth_shirt
+1006	/Shirt/b_dangan/b_danganzhongpogu+++/danganzhongpogu002	1				肩部破中			0	dangan01		1	0	0	0	0	1	PS012/houzhongpoguzhongwenV.jpg						0.07		1	shoulder_breadth_shirt
+1007	/Shirt/b_houfu	1		1275		后幅设计			0			1	0	1	0	1	1		-0.04,0.08,-0.217	0,0,0		-0.21,-0.04,-1.1	357.5,10,-1.335292E-08			0	
+1747	/Shirt/b_houfu/b_pingjiaohoufu	3			2				0			1	0	1	0	0	1		-0.04,0.08,-0.217	0,0,0		-0.21,-0.04,-1.1	357.5,10,-1.335292E-08			0	
+1035	/Shirt/b_houfu/b_pingjiaohoufu/houfu_pingjiao	0		1275		无褶				houfu01		1	0	0	0	1	1	PS011/houfu.png						0.17	紧身设计，适合身材标准且时尚的身材。	1	center_back_length_shirt
+1036	/Shirt/b_houfu/b_pingjiaohoufu/houfubozheweipogu_pingjiao	0		1275		膊褶位破骨到衫脚			1	houfu01	houfu02	1	0	0	0	0	0	PS011/houfubozheweipogu.png						0.17		0	
+1037	/Shirt/b_houfu/b_pingjiaohoufu/houfugongzizheliangbian_pingjiao	0		1275		工字皱褶两边间线	1126			houfu01		1	0	0	0	0	0	PS011/houfugongzizheliangbian.png						0.17	商务设计，适合正装革履的职场男士，彰显你帅气的精神面貌。	0	
+1038	/Shirt/b_houfu/b_pingjiaohoufu/houfushenggongzizhe_pingjiao	0		1275		生工字褶	1126			houfu01		1	0	0	0	0	1	PS011/houfushenggongzizhe.png						0.17	宽松设计，适合背部肌肉较为圆厚的身材	1	
+1039	/Shirt/b_houfu/b_pingjiaohoufu/houfushuangbozhe_pingjiao	0		1275		边褶	1126			houfu01		1	0	0	0	0	1	PS011/houfushuangbozhe.png						0.17	经典设计，比较适合喜欢背部活动舒服的人	1	
+1040	/Shirt/b_houfu/b_pingjiaohoufu/houfuyaozhe_pingjiao	0		1275		腰省				houfu01		1	0	0	0	0	1	PS011/houfuyaozhe.png						0.17	时尚设计，可达到很好的收腰效果，尽显你小蛮腰的妖娆多姿。	1	
+1748	/Shirt/b_houfu/b_yuanjiaohoufu	3			1				0			1	0	1	0	0	1		-0.04,0.08,-0.217	0,0,0		-0.21,-0.04,-1.1	357.5,10,-1.335292E-08			0	
+1014	/Shirt/b_houfu/b_yuanjiaohoufu/houfu	0				无褶			0	houfu01		1	0	0	0	1	1	PS011/houfu.png						0.17	贴背设计，紧身美观	1	center_back_length_shirt
+1012	/Shirt/b_houfu/b_yuanjiaohoufu/houfubozheweipogu	0				膊褶位破骨到衫脚			1	houfu01	houfu02	1	0	0	0	0	0	PS011/houfubozheweipogu.png						0.17		0	center_back_length_shirt
+1011	/Shirt/b_houfu/b_yuanjiaohoufu/houfugongzizheliangbian	0				工字皱褶两边间线	1126		0	houfu01		1	0	0	0	0	0	PS011/houfugongzizheliangbian.png						0.17	商务设计，适合正装革履的职场男士，彰显你帅气的精神面貌。	0	center_back_length_shirt
+1008	/Shirt/b_houfu/b_yuanjiaohoufu/houfushenggongzizhe	0				生工字褶	1126		0	houfu01		1	0	0	0	0	1	PS011/houfushenggongzizhe.png						0.17	宽松设计，活动方便	1	center_back_length_shirt
+1010	/Shirt/b_houfu/b_yuanjiaohoufu/houfushuangbozhe	0				边褶	1126		0	houfu01		1	0	0	0	0	1	PS011/houfushuangbozhe.png						0.17	经典设计，大众款式	1	center_back_length_shirt
+1009	/Shirt/b_houfu/b_yuanjiaohoufu/houfuyaozhe	0				腰省			0	houfu01		1	0	0	0	0	1	PS011/houfuyaozhe.png						0.17	时尚设计，线条优美	1	center_back_length_shirt
+1749	/Shirt/b_houfu/b_zhedan	1		1275					0			1	0	1	0	0	1									0	
+1034	/Shirt/b_houfu/b_zhedan/pingjiao_houdazhedan	3			2	平角后幅			0	houfu01		1	0	0	0	0	1									1	
+1013	/Shirt/b_houfu/b_zhedan/houdazhedan	3			1	圆角后幅			0	houfu01		1	0	0	0	0	1									1	center_back_length_shirt
+1015	/Shirt/b_lingzi	1				领子设计			0			1	0	1	0	1	1									0	
+1707	/Shirt/b_lingzi/b_xiajilingjibian	1										1		1							1083						
+1018	/Shirt/b_lingzi/b_xiajilingjibian/xiajilingjibianfangzui	0				内领加唧边			0	yiling03		1	0	0	0	0	1	PS003/xiajilingjibianfangzui.png						0.02		1	
+1019	/Shirt/b_lingzi/b_xiajilingjibian/xiajilingtiezhidai	0				内领加织带			0	zhidai		1	0	0	0	0	1	PS003/xiajilingtiezhidai.png						0.02		1	
+1708	/Shirt/b_lingzi/b_xiajilingjibian/b_wuxiajilingjibian	0				普通内领						0		1		1											
+1750	/Shirt/b_lingzi/b_xiajilingjibian/biaozhizhidai	0							0	biaozhi		1	0	0	0	0	0									0	
+1746	/Shirt/b_lingzi/b_wailing	0				领子设计			0			1	0	1	0	1	1		-0.0676,0.3517,0.0144	0,170,0		-0.135,0.305,0.4	0,163.42,0			0	
+1026	/Shirt/b_lingzi/b_wailing/baotailing	0				8号煲呔领			1	yiling01	yiling02	1	0	0	0	0	0	PS002/baotailing.png						0.04	作为礼服衬衫使用，适合准备穿燕尾服去参加宴会的你。	0	collar_circle_shirt
+1028	/Shirt/b_lingzi/b_wailing/dajianling	0				1号大尖领			1	yiling01	yiling02	1	0	0	0	0	1	PS002/dajianling.png						0.04	大尖领，经典款式	1	collar_circle_shirt
+1029	/Shirt/b_lingzi/b_wailing/dabaziling	0				2号大八字领			1	yiling01	yiling02	1	0	0	0	0	1	PS002/dabaziling.png						0.04	八字领，商务首选	1	collar_circle_shirt
+1041	/Shirt/b_lingzi/b_wailing/lingzipingbian	0				领子拼边			1	yiling01	yiling02	1	0	0	0	0	0	PS002/lingzipinbian.jpg						0.04		0	collar_circle_shirt
+1042	/Shirt/b_lingzi/b_wailing/lingzhongshejibian	0				领中摄唧边			1	yiling01	yiling02	1	0	0	0	0	0							0.04		0	collar_circle_shirt
+1043	/Shirt/b_lingzi/b_wailing/lingkoudazhe	0				领口打褶			1	yiling01	yiling02	1	0	0	0	0	0	PS002/lingkoudazhe.jpg						0.04		0	collar_circle_shirt
+1023	/Shirt/b_lingzi/b_wailing/xiaoyuanlingjiajibian	0				7号小圆领加唧边			1	yiling01	yiling02	1	0	0	0	0	0	PS002/xiaoyuanlingjiajibian.png						0.04		0	collar_circle_shirt
+1044	/Shirt/b_lingzi/b_wailing/xiaoxiaobaziling	0				小小八字领			1	yiling01	yiling02	1	0	0	0	0	0							0.04	八字领中的时尚版，适合新潮的年轻一族	1	collar_circle_shirt
+1025	/Shirt/b_lingzi/b_wailing/xiaojianling	0				10号小尖领带扣			1	yiling01	yiling02	1	0	0	0	0	0	PS002/xiaojianling.png						0.04	领尖扣钮，美式休闲	1	collar_circle_shirt
+1030	/Shirt/b_lingzi/b_wailing/xiaofangling	0				9号小方领			1	yiling01	yiling02	1	0	0	0	1	1	PS002/xiaofangling.png						0.04	小方领，时尚且经典	1	collar_circle_shirt
+1022	/Shirt/b_lingzi/b_wailing/xiaobaziling	0				11号小八字领			1	yiling01	yiling02	1	0	0	0	0	1	PS002/xiaobaziling.png						0.04	小八字领，年轻一族	0	collar_circle_shirt
+1031	/Shirt/b_lingzi/b_wailing/yiziling	0				26号一字领			1	yiling01	yiling02	1	0	0	0	0	0	PS002/yiziling.png						0.04	温莎领，适合脖子较为细长的你，可搭配宽领带。	0	collar_circle_shirt
+1045	/Shirt/b_lingzi/b_wailing/fangzuizhongguoling	2				方角中国领			1	yiling01	yiling02	1	0	0	0	0	0							0.04		0	collar_circle_shirt
+1021	/Shirt/b_lingzi/b_wailing/koudianling	0				扣钮领			1	yiling01	yiling02	1	0	0	0	0	0	PS002/koudianling.png						0.04		0	collar_circle_shirt
+1024	/Shirt/b_lingzi/b_wailing/xiaobazilingdaikou	0				25号小八字领钉扣			1	yiling01	yiling02	1	0	0	0	0	1	PS002/xiaobazilingdaikou.png						0.04	领尖扣钮，美式休闲	0	collar_circle_shirt
+1027	/Shirt/b_lingzi/b_wailing/yuanzuizhongguoling	2				6号中国领			1	yiling01	yiling02	1	0	0	0	0	0	PS002/zhongguoling.png						0.04	中国领，传统国风	1	collar_circle_shirt
+1751	/Shirt/b_lingzi/b_wailing/dakouniuling_007	0				大扣钮领			1	yiling01	yiling02	1	0	0	0	0	0									1	collar_circle_shirt
+1753	/Shirt/b_lingzi/b_wailing/lingjianpogu_004	0				领尖破骨			1	yiling01	yiling02	1	0	0	0	0	0									1	collar_circle_shirt
+1758	/Shirt/b_lingzi/b_wailing/zhailing_003	0				窄领			1	yiling01	yiling02	1	0	0	0	0	0									1	collar_circle_shirt
+1016	/Shirt/b_lingzi/b_xiajiling	1				内领设计						1		1													
+1017	/Shirt/b_lingzi/b_xiajiling/xiajilingfangzui2likou	0				内领2粒扣			1	lingkou01	lingkou02	1	0	0	0	0	0	PS003/xiajilingfangzui2likou.png						0.02		1	collar_circle_shirt
+1020	/Shirt/b_lingzi/b_xiajiling/putongxiajiling	0				标准内领			1	lingkou01	lingkou02	1	0	0	0	1	1	PS003/putongxiajiling.png						0.02		1	collar_circle_shirt
+1754	/Shirt/b_lingzi/b_xiajiling/xiajiditiezhidai_007	0				下级底贴织带+内领加织带			0	zhidai		1	0	0	0	0	0									1	
+1046	/Shirt/b_niuzi	0							0			1	0	1	0	1	1		0.0013,-0.2595,0.1417	0,180,0		-0.03,-0.169,0.65	3.272514,181.8454,359.6221			0	
+1047	/Shirt/b_niuzi/niuzizhongtiezhuangbu	0				钮子中贴撞布			1	qianfu01	menjin02	1	0	0	0	0	0	PS001/niuzizhongtiezhuangbu.jpg						0.03		0	
+1048	/Shirt/b_niuzi/mingxianniuzi	0				明线钮子	1270|1274|1253|1276|1277	1273	0	qianfu01		1	0	0	0	1	1	PS001/mingxianniuzi.jpg						0.03	标准内襟，大众款式	1	
+1049	/Shirt/b_niuzi/luotieniuzi	0				落贴钮子			0	menjin02		1	0	0	0	0	1	PS001/luotieniuzi.jpg						0.03	最新款式，时尚休闲	1	
+1050	/Shirt/b_niuzi/jianiuzi	0				夹钮子			0	menjin02		1	0	0	0	0	0	PS001/jianiuzi.jpg						0.03		0	
+1051	/Shirt/b_niuzi/niuzizhongtiezhidai	0				钮子中下织带			1	qianfu01	zhidai	1	0	0	0	0	0	PS001/niuzizhongtiezhidai.jpg						0.03		0	
+1032	/Shirt/b_menjin	1				门襟设计			0			1	0	1	0	1	1		-0.01,-0.042,0.1225	0,180,3.733867E-05		-0.03,0.22,0.65	4.170001,182.15,6.687811E-09			0	
+1033	/Shirt/b_menjin/antongmianpozhong	0				暗门襟面破中	1270|1276|1277|1274|1253		0	qianfu01		1	0	0	0	0	0	PS017/antongmianpozhong.jpg						0.03		0	
+1257	/Shirt/b_menjin/banmianshuangtong	0				半面双门襟	1270|1276|1277|1274|1253		1	qianfu01	menjin02	1	0	0	0	0	0	PS017/banmianshuangtong.jpg						0.03		0	
+1052	/Shirt/b_menjin/dimianluotietong	0				底面落贴仝	1270|1276|1277|1274|1253		1	qianfu01	menjin02	1	0	0	0	0	0	PS017/dimianluotietong.jpg						0.03		0	
+1053	/Shirt/b_menjin/fanzheshuangantong	0				反折双暗门襟	1270|1276|1277|1274|1253		0	qianfu01		1	0	0	0	0	0	PS017/fanzheshuangantong.jpg						0.03		0	
+1258	/Shirt/b_menjin/luotiemingtong	0				标准门襟			0	qianfu01		1	0	0	0	1	1	PS017/luotiemingtong.png						0.03	标准门襟，大众款式	1	
+1259	/Shirt/b_menjin/mingxiantong	0				法式门襟	1270|1276|1277|1274|1253	1273	0	qianfu01		1	0	0	0	0	0	PS017/mingxiantong.png						0.03	时尚优雅风格，可搭配各种领型，适合特别斯文的你。	1	
+1260	/Shirt/b_menjin/mingtongzhongluozhuangbu	0				明门襟加撞布	1270|1276|1277|1274|1253		1	qianfu01	menjin02	1	0	0	0	0	0	PS017/mingtongzhongluozhuangbu.jpg						0.03		0	
+1261	/Shirt/b_menjin/mingtongliangbianjiajibian	0				明门襟两边加唧边	1270|1276|1277|1274|1253		1	qianfu01	menjin02	1	0	0	0	0	0	PS017/mingtongliangbianjiajibian.jpg						0.03		0	
+1262	/Shirt/b_menjin/mingtongjiajibian	0				明线门襟加唧边	1270|1276|1277|1274|1253		1	qianfu01	menjin02	1	0	0	0	0	0	PS017/mingtongjiajibian.jpg						0.03		0	
+1263	/Shirt/b_menjin/shuangzheantong	0				双折暗门襟	1270|1276|1277|1274|1253		0	qianfu01		1	0	0	0	0	1	PS017/shuangzheantong.png						0.03	暗门襟，钮扣暗藏	1	
+1054	/Shirt/b_menjin/shengzheantonglou01cm	0				双折暗仝露1分边			1	qianfu01	menjin02	1	0	0	0	0	0							0.03		0	
+1055	/Shirt/b_menjin/shengtongzhikoudingjin	0				生门襟子口顶尽	1270|1276|1277|1274|1253		0	qianfu01		1	0	0	0	0	1	PS017/shengtongzhikoudingjin.jpg						0.03	最薄门襟，简洁大方	1	
+1264	/Shirt/b_menjin/mingtongzhongluozhidai	0				明门襟中部加织带	1270|1276|1277|1274|1253		1	qianfu01	zhidai	1	0	0	0	0	0	PS017/mingtongzhongluozhidai.jpg						0.03		0	
+1265	/Shirt/b_menjin/niukou01	1							0	niukou		0	0	0	0	1	1									0	
+1759	/Shirt/b_menjin/zzixianmingtong_1212_007	0				之字线+钮子中下织带			0	qianfu01		1	0	0	0	0	0									1	
+1267	/Shirt/b_qianfu	1				前幅设计			0			1	0	1	0	1	1									0	
+1275	/Shirt/b_qianfu/b_chebai	1				下摆设计			0			1	0	1	0	1	1									0	
+1273	/Shirt/b_qianfu/b_chebai/qianfu	0	1			圆角前幅			0	qianfu01		1	0	0	0	1	1	PS009/yuanjiaoxiabai.jpg						0.2		1	chest_circle_shirt|tummy_circle_shirt
+1251	/Shirt/b_qianfu/b_chebai/qianfu_pingjiao	0	2			平角前幅			0	qianfu01		1	0	0	0	0	1	PS009/pingjiaoxiabai.jpg						0.2		1	chest_circle_shirt|tummy_circle_shirt
+1709	/Shirt/b_qianfu/b_qianfuxiushi	1										1		1													
+1252	/Shirt/b_qianfu/b_qianfuxiushi/b_xiabaiweibupogu	0	0	1275		下摆位拼布	1264|1262|1055|1033|1257|1261|1260|1052|1053|1263|1259|1048		0			1	0	1	0	0	1	PS008/xiabaiweibupogu.png								0	
+1274	/Shirt/b_qianfu/b_qianfuxiushi/b_xiabaiweibupogu/xiabaiweibupogu	3			1	下摆位拼布			0	qianfubujian		1	0	0	0	0	1	PS008/xiabaiweibupogu.png						0.2		1	chest_circle_shirt|tummy_circle_shirt
+1253	/Shirt/b_qianfu/b_qianfuxiushi/b_xiabaiweibupogu/xiabaiweibupogu_pingjiao	3			2	下摆位拼布			0	qianfubujian		1	0	0	0	0	1									1	chest_circle_shirt|tummy_circle_shirt
+1254	/Shirt/b_qianfu/b_qianfuxiushi/b_qianfudatiao	0	0	1275		前胸打条	1243|1248|1115|1120|1114|1119|1116|1121|1117|1122|1118|1123|1242|1247|1240|1245|1241|1246		0			1	0	1	0	0	1	PS008/qianfudatiao.png								0	
+1281	/Shirt/b_qianfu/b_qianfuxiushi/b_qianfudatiao/qianfudatiao	3			1	前胸打条			0	qianfu01		1	0	0	0	0	1	PS008/qianfudatiao.png						0.2		1	chest_circle_shirt|tummy_circle_shirt
+1255	/Shirt/b_qianfu/b_qianfuxiushi/b_qianfudatiao/qianfudatiao_pingjiao	3			2	前胸打条			0	qianfu01		1	0	0	0	0	1							0.2		1	chest_circle_shirt|tummy_circle_shirt
+1256	/Shirt/b_qianfu/b_qianfuxiushi/b_qianfupozhigu	0	1	1275		前胸中间拼布	1264|1262|1055|1261|1260|1052|1053|1263|1259|1048|1033|1257		0			1	0	1	0	0	1	PS008/qianfupozhigu.png								0	
+1276	/Shirt/b_qianfu/b_qianfuxiushi/b_qianfupozhigu/qianfupozhigu	3			1	前胸中间拼布			0	qianfubujian		1	0	0	0	0	1	PS008/qianfupozhigu.png						0.2		1	chest_circle_shirt|tummy_circle_shirt
+1277	/Shirt/b_qianfu/b_qianfuxiushi/b_qianfupozhigu/qianfupozhigu_pingjiao	3			2	前胸中间拼布			0	qianfubujian		1	0	0	0	0	1							0.2		1	chest_circle_shirt|tummy_circle_shirt
+1112	/Shirt/b_qianfu/b_qianfuxiushi/b_meiqianfuxiushi	0	0			标准前胸			0			0	0	1	0	1	1	PS008/qianfu.jpg								1	
+1268	/Shirt/b_qianfu/b_qianfuxiushi/datiaozhibanyao	0	0			前半胸贴布	1114|1119|1116|1121|1117|1122|1115|1120|1243|1248|1118|1123|1242|1247|1240|1245|1241|1246		0	qianfubujian		1	0	0	0	0	1	PS008/datiaozhibanyao.png						0.2		1	chest_circle_shirt|tummy_circle_shirt
+1269	/Shirt/b_qianfu/b_qianfuxiushi/fengqinshuikan	0	0			风琴水冚	1241|1246|1243|1248|1242|1247|1240|1245|1115|1120|1114|1119|1116|1121|1117|1122|1118|1123		0	qianfu01		1	0	0	0	0	1	PS008/fengqinshuikan.png						0.2		1	chest_circle_shirt|tummy_circle_shirt
+1270	/Shirt/b_qianfu/b_qianfuxiushi/qianxiongweipogu	0	0			前胸位拼布	1262|1033|1257|1055|1052|1053|1263|1259|1048|1261|1260|1264		0	qianfubujian		1	0	0	0	0	1	PS008/qianxiongweipogu.png						0.2		1	chest_circle_shirt|tummy_circle_shirt
+1056	/Shirt/b_qianfu/b_qianfuxiushi/qianfutongbiandatiao	0	0			前幅仝边打条			0	qianfu01		1	0	0	0	0	1							0.2		1	chest_circle_shirt|tummy_circle_shirt
+1271	/Shirt/b_qianfu/b_qianfuxiushi/qianfunaboweitieVbu	0	0			肩位贴V布			0	qianfubujian		1	0	0	0	0	1	PS008/qianfunaboweitieVbu.png						0.2		1	chest_circle_shirt|tummy_circle_shirt
+1272	/Shirt/b_qianfu/b_qianfuxiushi/qianfunabojianbupogu	0	0			前胸肩位拼布			0	qianfubujian		1	0	0	0	0	1	PS008/qianfunabojianbupogu.png						0.2		1	chest_circle_shirt|tummy_circle_shirt
+1278	/Shirt/b_xiuzi	1				袖子设计			0			1	0	1	0	1	1		0.235,0.24,0	0,191.53,0		-0.13,0.15,0.72	10.8,182,0			0	
+1105	/Shirt/b_xiuzi/b_duanxiu	0				短袖			0	xiuzi01		1	0	1	0	0	1	PS016/duanxiu.png						0.33	短袖	0	
+1111	/Shirt/b_xiuzi/b_duanxiu/duanxiu	0				短袖			0	xiuzi01		1	0	0	0	1	1	PS016/duanxiu.png						0.33		1	sleeve_short_length_shirt
+1279	/Shirt/b_xiuzi/b_duanxiu/b_duanxiuxiukou	1				短袖袖口设计			0			1	0	1	0	0	1		0.263,0.0485,0.02	0,180,0		-0.534,0.13,0.228	10.8,132.26,0			0	
+1094	/Shirt/b_xiuzi/b_duanxiu/b_duanxiuxiukou/jiaxiukou	0				夹袖口			0	xiukou02		1	0	0	0	1	1	PS007/jiaxiukou.jpg						0.02	夹袖口，年轻一族	1	cuff_short_length_shirt
+1095	/Shirt/b_xiuzi/b_duanxiu/b_duanxiuxiukou/jiazhefanxiukou	0				假反袖口			0	xiuzi01		1	0	0	0	0	1	PS007/jiazhefanxiukou.jpg						0.02	假反袖口，大众款式	1	cuff_short_length_shirt
+1090	/Shirt/b_xiuzi/b_duanxiu/b_duanxiuxiukou/xiukoujiajibian	0				袖口唧边			1	xiuzi01	xiukou02	1	0	0	0	0	0	PS007/xiukoujibian.jpg						0.02		0	cuff_short_length_shirt
+1057	/Shirt/b_xiuzi/b_duanxiu/b_duanxiuxiukou/xiukouditiezhuangbu	0				袖口底贴撞布			1	xiuzi01	xiukou02	1	0	0	0	0	0							0.02		0	cuff_short_length_shirt
+1091	/Shirt/b_xiuzi/b_duanxiu/b_duanxiuxiukou/xiukoudingjiajibian	0				袖口底落唧边			1	xiuzi01	xiukou02	1	0	0	0	0	0	PS007/xiukoujiajibian.jpg						0.02		0	cuff_short_length_shirt
+1738	/Shirt/b_xiuzi/b_duanxiu/b_duanxiuxiudai	1				短袖袖带设计			0			1	0	1	0	0	1									0	
+1158	/Shirt/b_xiuzi/b_duanxiu/b_duanxiuxiudai/duanxiudai	0				短袖袖带			0	xiudai01		1	0	0	0	0	1	PS015/duanxiudai.jpg						0.02		1	cuff_short_length_shirt
+1739	/Shirt/b_xiuzi/b_duanxiu/b_duanxiuxiudai/b_meixiudai	0				无短袖袖带			0			0	0	1	0	1	1									0	
+1106	/Shirt/b_xiuzi/b_changxiu	0				长袖			0	xiuzi01		1	0	1	0	1	1	PS016/changxiu.png						0.33	长袖	0	
+1159	/Shirt/b_xiuzi/b_changxiu/b_xiucha	1							0			1	0	1	0	1	1									0	
+1166	/Shirt/b_xiuzi/b_changxiu/b_xiucha/sanjianxiucha1cun001	0				三尖袖叉1寸			0	xiucha		1	0	0	0	1	1	PS006/sanjianxiucha1cun.jpg						0.005		1	
+1163	/Shirt/b_xiuzi/b_changxiu/b_xiucha/sanjianxiucha1cun001/sanjianxiucha1cun002	1			2	三尖袖叉1寸			0	xiucha		1	0	0	0	1	1	PS006/sanjianxiucha1cun.jpg						0.005		0	
+1165	/Shirt/b_xiuzi/b_changxiu/b_xiucha/pingdingxiucha1cun001	0				平顶袖叉1寸			0	xiucha		1	0	0	0	0	1	PS006/pingdingxiucha1cun.jpg						0.005		1	
+1162	/Shirt/b_xiuzi/b_changxiu/b_xiucha/pingdingxiucha1cun001/pingdingxiucha1cun002	1			2	平顶袖叉1寸		1165	0	xiucha		1	0	0	0	0	1	PS006/pingdingxiucha1cun.jpg						0.005		0	
+1167	/Shirt/b_xiuzi/b_changxiu/b_xiucha/niukou02_001	1							0	niukou		0	0	0	0	1	1									0	
+1161	/Shirt/b_xiuzi/b_changxiu/b_xiucha/niukou02_001/niukou02_002	1			2			1167	0	niukou		0	0	0	0	1	1									0	
+1104	/Shirt/b_xiuzi/b_changxiu/b_changxiukou	1				长袖袖口设计			0			0	0	1	0	0	1		0.22,-0.24,0.1100001	0,191.53,0		-0.39,-0.11,-0.4	1.4,20.92,359.55			0	
+1176	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/dapiejiaodajianying001	0				10大撇角大介英			1	xiukou01	xiukou02	1	0	0	0	0	0	PS007/dapiejiaodajianying.jpg						0.02		1	cuff_long_length_shirt
+1169	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/dapiejiaodajianying001/dapiejiaodajianying002	1				10大撇角大介英		1176	1	xiukou01	xiukou02	1	0	0	0	0	0	PS007/dapiejiaodajianying.jpg						0.02		0	cuff_long_length_shirt
+1177	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/fashixiuzhiwen001	0				13号法式袖直纹			1	xiukou01	xiukou02	1	0	0	0	0	1	PS007/fashixiuzhiwen.png						0.02		1	cuff_long_length_shirt
+1170	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/fashixiuzhiwen001/fashixiuzhiwen002	1				13号法式袖直纹		1177	1	xiukou01	xiukou02	1	0	0	0	0	1	PS007/fashixiuzhiwen.png						0.02		0	cuff_long_length_shirt
+1178	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/jieyinzhongjianshejibian001	0				介英中间摄唧边			1	xiukou01	xiukou02	1	0	0	0	0	0							0.02		1	cuff_long_length_shirt
+1171	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/jieyinzhongjianshejibian001/jieyinzhongjianshejibian002	1				介英中间摄唧边		1178	1	xiukou01	xiukou02	1	0	0	0	0	0							0.02		0	cuff_long_length_shirt
+1179	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/jieyinmianpingbu001	0				介英面拼布			1	xiukou01	xiukou02	1	0	0	0	0	0							0.02		1	cuff_long_length_shirt
+1172	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/jieyinmianpingbu001/jieyinmianpingbu002	1				介英面拼布		1179	0	xiukou01	xiukou02	1	0	0	0	0	0							0.02		0	cuff_long_length_shirt
+1180	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/liujiaozhiwen001	0				切角袖口			1	xiukou01	xiukou02	1	0	0	0	0	1	PS007/liujiaozhiwen.png						0.02		1	cuff_long_length_shirt
+1173	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/liujiaozhiwen001/liujiaozhiwen002	1				切角袖口		1180	1	xiukou01	xiukou02	1	0	0	0	0	1	PS007/liujiaozhiwen.png						0.02		0	cuff_long_length_shirt
+1181	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/yuanjiaoxiu001	0				圆角袖口			1	xiukou01	xiukou02	1	0	0	0	1	1	PS007/yuanjiaoxiu.png						0.02		1	cuff_long_length_shirt
+1174	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/yuanjiaoxiu001/yuanjiaoxiu002	1				圆角袖口		1181	1	xiukou01	xiukou02	1	0	0	0	1	1	PS007/yuanjiaoxiu.png						0.02		0	cuff_long_length_shirt
+1756	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/yuanjiaojieyingtiezhidai_007_001	0				圆角介英贴织带			1	xiukou01	xiukou02	1	0	0	0	0	0									1	cuff_long_length_shirt
+1757	/Shirt/b_xiuzi/b_changxiu/b_changxiukou/yuanjiaojieyingtiezhidai_007_001/yuanjiaojieyingtiezhidai_007_002	1				圆角介英贴织带			0	xiukou01	xiukou02	1	0	0	0	0	0									0	cuff_long_length_shirt
+1182	/Shirt/b_xiuzi/b_changxiu/b_youchangxiu	0		1185					0			1	0	1	0	1	1									0	
+1183	/Shirt/b_xiuzi/b_changxiu/b_youchangxiu/changxiu002	3			2	长袖		1184	0	xiuzi01		1	0	0	0	1	1	PS016/changxiu.png						0.33		1	sleeve_long_length_shirt
+1184	/Shirt/b_xiuzi/b_changxiu/b_youchangxiu/changxiu001	1				长袖		1183	0	xiuzi01		1	0	0	0	1	1	PS016/changxiu.png						0.33		0	sleeve_long_length_shirt
+1186	/Shirt/b_xiuzi/b_changxiu/b_youchangxiu/changxiuxiudai002	3			1	长袖袖带			0	xiuzi01	xiudai01	1	0	0	0	1	1	PS015/changxiuxiudai.jpg						0.003		0	
+1185	/Shirt/b_xiuzi/b_changxiu/b_changxiuxiudai	1							0			0	0	1	0	0	1									0	
+1719	/Shirt/b_xiuzi/b_changxiu/b_changxiuxiudai/b_youxiudai	0	1									0		1												1	
+1720	/Shirt/b_xiuzi/b_changxiu/b_changxiuxiudai/b_wuxiudai	0	2									0		1												0	
+1071	/Shirt/b_jiaoca	1		1275		脚贴设计			0			1	0	1	0	1	1									0	
+1745	/Shirt/b_jiaoca/b_pingjiaojiaoca	3			2							1		1			1										
+1216	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_pingqijiaoca	0				平齐脚叉			0			1	0	1	0	0	1									0	
+1734	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_pingqijiaoca/b_ceguqianfu	1		1275|1709	2							1		1													
+1219	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_pingqijiaoca/b_ceguqianfu/pingqijiaoca_qianfu_pogu	3			1|1	平齐脚叉			0	quanfubujian		1	0	0	0	0	1							0.001		1	
+1220	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_pingqijiaoca/b_ceguqianfu/pingqijiaoca_qianfu	3			1|0	平齐脚叉			0	qianfu01		1	0	0	0	0	1							0.001		1	
+1221	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_pingqijiaoca/b_ceguqianfu/pingqijiaoca_qianfu_pingjiao_pogu	3			2|1	平齐脚叉			0	quanfubujian		1	0	0	0	0	1							0.001		1	
+1222	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_pingqijiaoca/b_ceguqianfu/pingqijiaoca_qianfu_pingjiao	3			2|0	平齐脚叉			0	qianfu01		1	0	0	0	0	1							0.001		1	
+1735	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_pingqijiaoca/b_ceguhoufu	1		1275|1709	2							1		1													
+1223	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_pingqijiaoca/b_ceguhoufu/pingqijiaoca_houfu_pogu	3			1|1	平齐脚叉			0	houfu02		1	0	0	0	0	1							0.001		1	
+1224	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_pingqijiaoca/b_ceguhoufu/pingqijiaoca_houfu_pingjiao_pogu	3			2|1	平齐脚叉			0	houfu02		1	0	0	0	0	1							0.001		1	
+1225	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_pingqijiaoca/b_ceguhoufu/pingqijiaoca_houfu_pingjiao	3			2|0	平齐脚叉			0	houfu01		1	0	0	0	0	1							0.001		1	
+1226	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_pingqijiaoca/b_ceguhoufu/pingqijiaoca_houfu	3			1|0	平齐脚叉			0	houfu01		1	0	0	0	0	1							0.001		1	
+1227	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_chongdieca	0				重叠叉			0			1	0	1	0	0	1									0	
+1736	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_chongdieca/b_ceguqianfu	1		1275|1709								1		1													
+1230	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_chongdieca/b_ceguqianfu/chongdieca_qianfu_pogu	3			1|1	重叠叉			0	qianfubujian		1	0	0	0	0	1							0.001		1	
+1231	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_chongdieca/b_ceguqianfu/chongdieca_qianfu	3			1|0	重叠叉			0	qianfu01		1	0	0	0	0	1							0.001		1	
+1232	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_chongdieca/b_ceguqianfu/chongdieca_qianfu_pingjiao_pogu	3			2|1	重叠叉			0	qianfubujian		1	0	0	0	0	1							0.001		1	
+1233	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_chongdieca/b_ceguqianfu/chongdieca_qianfu_pingjiao	3			2|0	重叠叉			0	qianfu01		1	0	0	0	0	1							0.001		1	
+1737	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_chongdieca/b_ceguhoufu	1		1275|1709								1		1													
+1234	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_chongdieca/b_ceguhoufu/chongdieca_houfu_pogu	3			1|1	重叠叉			0	houfu02		1	0	0	0	0	1							0.001		1	
+1235	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_chongdieca/b_ceguhoufu/chongdieca_houfu_pingjiao_pogu	3			2|1	重叠叉			0	houfu02		1	0	0	0	0	1							0.001		1	
+1236	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_chongdieca/b_ceguhoufu/chongdieca_houfu_pingjiao	3			2|0	重叠叉			0	houfu01		1	0	0	0	0	1							0.001		1	
+1237	/Shirt/b_jiaoca/b_pingjiaojiaoca/b_chongdieca/b_ceguhoufu/chongdieca_houfu	3			1|0	重叠叉			0	houfu01		1	0	0	0	0	1							0.001		1	
+1744	/Shirt/b_jiaoca/b_yuanjiaojiaoca	3			1							1		1			1										
+1194	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_cegu	1				标准侧骨			0			1	0	1	0	0	1									0	
+1730	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_cegu/b_ceguqianfu	1		1275|1709								1		1													
+1196	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_cegu/b_ceguqianfu/cegu_qianfu_pingjiao	3			2|0	标准侧谷				qianfu01		1	0	0	0	0	1									1	
+1197	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_cegu/b_ceguqianfu/cegu_qianfupogu	3			1|1	标准侧谷				qianfubujian		1	0	0	0	0	1									1	
+1198	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_cegu/b_ceguqianfu/cegu_qianfu_pingjiao_pogu	3			2|1	标准侧谷				qianfubujian		1	0	0	0	0	1									1	
+1199	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_cegu/b_ceguqianfu/cegu_qianfu	3			1|0	标准侧谷		1273		qianfu01		1	0	0	0	1	1									1	
+1731	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_cegu/b_ceguhoufu	1		1275|1709								1		1													
+1201	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_cegu/b_ceguhoufu/cegu_houfu_pogu	3			1|1	标准侧谷				houfu02		1	0	0	0	0	1									1	
+1202	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_cegu/b_ceguhoufu/cegu_houfu_pingjiao_pogu	3			2|1	标准侧谷				houfu02		1	0	0	0	0	1									1	
+1203	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_cegu/b_ceguhoufu/cegu_houfu_pingjiao	3			2|0	标准侧谷				houfu01		1	0	0	0	0	1									1	
+1204	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_cegu/b_ceguhoufu/cegu_houfu	3			1|0	标准侧谷		1014		houfu01		1	0	0	0	1	1									1	
+1205	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_yazhang	2				鸭掌			0			1	0	1	0	0	1	PS010/yazhang.png								0	
+1732	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_yazhang/b_ceguhoufu	1		1275|1709								1		1													
+1212	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_yazhang/b_ceguhoufu/yazhang_houfu_pogu	3			1|1	鸭掌			0	houfu02		1	0	0	0	1	1	PS010/yazhang.png						0.001		1	
+1213	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_yazhang/b_ceguhoufu/yazhang_houfu_pingjiao_pogu	3			2|1	鸭掌			0	houfu02		1	0	0	0	1	1	PS010/yazhang.png						0.001		1	
+1214	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_yazhang/b_ceguhoufu/yazhang_houfu_pingjiao	3			2|0	鸭掌			0	houfu01		1	0	0	0	1	1	PS010/yazhang.png						0.001		1	
+1215	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_yazhang/b_ceguhoufu/yazhang_houfu	3			1|0	鸭掌			0	houfu01		1	0	0	0	1	1	PS010/yazhang.png						0.001		1	
+1733	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_yazhang/b_ceguqianfu	1		1275|1709								1		1													
+1207	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_yazhang/b_ceguqianfu/yazhang_qianfu_pogu	3			1|1	鸭掌			0	quanfubujian	jiaotie	1	0	0	0	1	1	PS010/yazhang.png						0.001		1	
+1208	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_yazhang/b_ceguqianfu/yazhang_qianfu	3			1|0	鸭掌			0	qianfu01		1	0	0	0	1	1	PS010/yazhang.png						0.001		1	
+1209	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_yazhang/b_ceguqianfu/yazhang_qianfu_pingjiao_pogu	3			2|1	鸭掌			0	quanfubujian	jiaotie	1	0	0	0	1	1	PS010/yazhang.png						0.001		1	
+1210	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_yazhang/b_ceguqianfu/yazhang_qianfu_pingjiao	3			2|0	鸭掌			0	qianfu01		1	0	0	0	1	1	PS010/yazhang.png						0.001		1	
+1188	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_baojiantoujiaotie	0		1275		车宝剑头			0			1	0	1	0	0	1	PS010/baojiantoujiaotie.png								0	
+1075	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_baojiantoujiaotie/baojiantoujiaotie	3			1	车宝剑头			0	jiaotie		1	0	0	0	0	1	PS010/baojiantoujiaotie.png						0.001		1	
+1189	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_baojiantoujiaotie/baojiantoujiaotie_pingjiao	3			2	车宝剑头			0	jiaotie		1	0	0	0	0	1							0.001		1	
+1190	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_ceguche1CMjiaotie	0		1275		扁条脚贴			0			1	0	1	0	0	1	PS010/ceguche1CMjiaotie.png								0	
+1074	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_ceguche1CMjiaotie/ceguche1CMjiaotie	3			1	扁条脚贴			0	jiaotie		1	0	0	0	0	1	PS010/ceguche1CMjiaotie.png						0.001		1	
+1191	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_ceguche1CMjiaotie/ceguche1CMjiaotie_pingjiao	3			2	扁条脚贴			0	jiaotie		1	0	0	0	0	1							0.001		1	
+1192	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_sanjiaoxingjiaotie	0		1275		三角形脚贴			0			1	0	1	0	0	1	PS010/sanjiaoxingjiaotie.png								0	
+1073	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_sanjiaoxingjiaotie/sanjiaoxingjiaotie	3			1	三角形脚贴			0	jiaotie		1	0	0	0	0	1	PS010/sanjiaoxingjiaotie.png						0.001		1	
+1193	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_sanjiaoxingjiaotie/sanjiaoxingjiaotie_pingjiao	3			2	三角形脚贴			0	jiaotie		1	0	0	0	0	1							0.001		1	
+1743	/Shirt/b_jiaoca/b_yuanjiaojiaoca/b_wujiaotie	0							0			0		1	0	1	1									0	
+1101	/Shirt/b_koudai	1							0			1	0	1	0	1	1									0	
+1084	/Shirt/b_koudai/b_zoukoudai	1				左口袋设计			0			1	0	1	0	1	1		-0.1058,0.101,0.0976	0,163.1296,0		-0.08,0.13,0.64	4.000001,182,-1.337279E-08			0	
+1085	/Shirt/b_koudai/b_zoukoudai/b_meikoudai002	0				无口袋			0			0	0	1	0	1	1	PS004/NO_PS004.png						0.003	无口袋，简洁大方	0	
+1115	/Shirt/b_koudai/b_zoukoudai/danchundai002	0				单唇袋	1269|1281|1255|1243|1248|1268|1242|1247|1240|1245|1241|1246			koudai		1	0	0	0	0	0	PS004/danchundai.png						0.003		0	
+1116	/Shirt/b_koudai/b_zoukoudai/fangjiaodai002	0				方角袋	1281|1255|1268|1269			koudai		1	0	0	0	0	0	PS004/fangjiaodai.png						0.003	休闲设计，显得更加轻松自在。	0	
+1114	/Shirt/b_koudai/b_zoukoudai/liujiaodai002	0				六角袋	1281|1255|1269|1268			koudai		1	0	0	0	0	1	PS004/liujiaodai.png						0.003	六角袋，休闲设计	1	
+1117	/Shirt/b_koudai/b_zoukoudai/sanjiandai002	0				三尖袋	1281|1255|1268|1269			koudai		1	0	0	0	0	1	PS004/sanjiandai.png						0.003	三尖袋，休闲设计	1	
+1118	/Shirt/b_koudai/b_zoukoudai/yuanjiaodai002	0				园角袋	1281|1255|1268|1269			koudai		1	0	0	0	0	1	PS004/yuanjiaodai.png						0.003	圆角袋，经典设计	1	
+1239	/Shirt/b_koudai/b_zoukoudai/jiadanchundai001	0				假单唇袋	1277|1276|1255|1281|1056|1270|1269|1268			koudai	0	1	0	0	0	0	0	PS004/danchundai.png						0.003		0	
+1752	/Shirt/b_koudai/b_zoukoudai/danchundaitiezhidai_003	0				单唇袋贴织带	1269|1281|1255|1241|1246|1243|1248|1268|1242|1247|1240|1245		0	koudai		1	0	0	0	0	0									1	
+1755	/Shirt/b_koudai/b_zoukoudai/yuanjiaodaisanjiandaikou_007	0				圆角袋三尖袋口	1281|1255|1268|1269		0	koudai		1	0	0	0	0	0									1	
+1092	/Shirt/b_koudai/b_youkoudai	1				右口袋设计			0			1	0	1	0	1	0									0	
+1093	/Shirt/b_koudai/b_youkoudai/b_meikoudai001	0				无口袋			0			0	0	1	0	1	1	PS004/NO_PS004.png						0.003	无口袋，简洁大方	0	
+1120	/Shirt/b_koudai/b_youkoudai/danchundai001	0				单唇袋	1269|1281|1255|1243|1248|1268|1242|1247|1240|1245|1241|1246			koudai		1	0	0	0	0	0	PS004/danchundai.png						0.003		0	
+1121	/Shirt/b_koudai/b_youkoudai/fangjiaodai001	0				方角袋	1281|1255|1268|1269			koudai		1	0	0	0	0	0	PS004/fangjiaodai.png						0.003	休闲设计，显得更加轻松自在。	0	
+1119	/Shirt/b_koudai/b_youkoudai/liujiaodai001	0				六角袋	1281|1255|1269|1268			koudai		1	0	0	0	0	1	PS004/liujiaodai.png						0.003	六角袋，休闲设计	1	
+1122	/Shirt/b_koudai/b_youkoudai/sanjiandai001	0				三尖袋	1281|1255|1268|1269			koudai		1	0	0	0	0	1	PS004/sanjiandai.png						0.003	三尖袋，休闲设计	1	
+1123	/Shirt/b_koudai/b_youkoudai/yuanjiaodai001	0				园角袋	1281|1255|1268|1269			koudai		1	0	0	0	0	1	PS004/yuanjiaodai.png						0.003	圆角袋，经典设计	1	
+1238	/Shirt/b_koudai/b_youkoudai/jiadanchundai002	0				假单唇袋	1277|1276|1255|1281|1056|1270|1269|1268		0	koudai		1	0	0	0	0	0	PS004/danchundai.png						0.003		0	
+1076	/Shirt/b_logo	1				内担干贴设计			0			1	0	1	0	1	1				1083					0	
+1082	/Shirt/b_logo/b_meineijiantie	0				无内肩贴			0			0	0	1	0	1	1	PS014/NO_PS014.jpg						0.001		0	
+1077	/Shirt/b_logo/banyuanguibei	0				半圆龟背			0	logo		1	0	0	0	0	1	PS014/banyuanguibei.png						0.001		1	
+1078	/Shirt/b_logo/baojiantie	0				宝剑贴			0	logo		1	0	0	0	0	1	PS014/baojiantie.png						0.001		1	
+1079	/Shirt/b_logo/sanjiaotie	0				三角贴			0	logo		1	0	0	0	0	1	PS014/sanjiaotie.png						0.001		1	
+1080	/Shirt/b_logo/sifangtie	0				四方贴			0	logo		1	0	0	0	0	1	PS014/sifangtie.png						0.001		1	
+1081	/Shirt/b_logo/tixingguibei	0				梯形龟背			0	logo		1	0	0	0	0	1	PS014/tixingguibei.png						0.001		1	
+1283	/Shirt/b_daigai	1							0			1	0	1	0	1	1									0	
+1284	/Shirt/b_daigai/b_zoudaigai	1				左口袋设计			0			1	0	1	0	1	1									0	
+1285	/Shirt/b_daigai/b_zoudaigai/b_meidaigai002	2				无袋盖			0			0	0	1	0	1	1	PS004/NO_PS004.png						0.003		0	
+1240	/Shirt/b_daigai/b_zoudaigai/fangjiaodaigai002	0				方角袋盖	1269|1281|1255|1268|1115|1120		1	koudaigai01	koudaigai02	1	0	0	0	0	1	PS005/fangjiaodaigai.png								1	
+1241	/Shirt/b_daigai/b_zoudaigai/liujiaodaigai002	0				六角袋盖	1269|1281|1255|1268|1115|1120		1	koudaigai01	koudaigai02	1	0	0	0	0	1	PS005/liujiaodaigai.png								1	
+1242	/Shirt/b_daigai/b_zoudaigai/sanjiandaigai002	0				三尖袋盖	1269|1281|1255|1268|1115|1120		1	koudaigai01	koudaigai02	1	0	0	0	0	1	PS005/sanjiandaigai.png								1	
+1243	/Shirt/b_daigai/b_zoudaigai/yuanjiaodaigai002	0				园角袋	1281|1255|1269|1268|1115|1120		1	koudaigai01	koudaigai02	1	0	0	0	0	1	PS004/yuanjiaodai.png								1	
+1244	/Shirt/b_daigai/b_zoudaigai/niukou04	1			1				0	niukou		0	0	0	0	0	1									1	
+1286	/Shirt/b_daigai/b_youdaigai	1				右口袋设计			0			1	0	1	0	1	1									0	
+1287	/Shirt/b_daigai/b_youdaigai/b_meidaigai001	2				无袋盖			0			0	0	1	0	1	1	PS004/NO_PS004.png						0.003		0	
+1245	/Shirt/b_daigai/b_youdaigai/fangjiaodaigai001	0				方角袋盖	1269|1281|1255|1268|1115|1120		1	koudaigai01	koudaigai02	1	0	0	0	0	1	PS005/fangjiaodaigai.png								1	
+1246	/Shirt/b_daigai/b_youdaigai/liujiaodaigai001	0				六角袋盖	1269|1281|1255|1268|1115|1120		1	koudaigai01	koudaigai02	1	0	0	0	0	1	PS005/liujiaodaigai.png								1	
+1247	/Shirt/b_daigai/b_youdaigai/sanjiandaigai001	0				三尖袋盖	1269|1281|1255|1268|1115|1120		1	koudaigai01	koudaigai02	1	0	0	0	0	1	PS005/sanjiandaigai.png								1	
+1248	/Shirt/b_daigai/b_youdaigai/yuanjiaodaigai001	0				园角袋	1281|1255|1269|1268|1115|1120		1	koudaigai01	koudaigai02	1	0	0	0	0	1	PS004/yuanjiaodai.png								1	
+1249	/Shirt/b_daigai/b_youdaigai/niukou03	1							0	niukou		0	0	0	0	0	1									1	
+1083	/Shirt/jiazi	1							0	jiazi01	jiazi02	1	0	0	1	1	1							0		0	

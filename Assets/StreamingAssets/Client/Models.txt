@@ -1,0 +1,4 @@
+Id	ModelName	ModelFile
+1	Shirt	Client/Models/Shirt.txt
+2	Suits	Client/Models/Suits.txt
+3	xifu_x	Client/Models/Trousers.txt

@@ -1,0 +1,32 @@
+Id	PartPath	ChildType	ChildValue	InfluenceFactors	ExpectValues	DisplayName	RejectParts	AssociateFabricPart	IsDoubleSide	MetarialName1	MetarialName2	IsGlobalMetarial	IsMountPoint	IsDecorate	IsDefault	IsValid	SampleImage	HotPoint	HotPointRotation	HotPointHides	ViewPoint	ViewPointRotation	Weight	Instruction	IsObsolete	ModelSize
+3000	/xifu_x	0						3010					1		1	1									0	
+3001	/xifu_x/b_houdai	1				后袋设计			0			0	1	0	1	1		-0.0841,0.491,-0.1847	0,17.10019,0		-0.296,0.465,-0.683	5.000001,23.38404,0			0	
+3002	/xifu_x/b_houdai/dingkou	0							0	kuzi		0	0	0	1	1	PK002/dingkou.jpg								1	
+3003	/xifu_x/b_houdai/houdaidaigaisan	0							0	kuzi		0	0	0	0	1	PK008/houdaidaigaisan.jpg								1	
+3004	/xifu_x/b_houdai/houdaidaigaifang	0							0	kuzi		0	0	0	0	1	PK008/houdaidaigaifang.jpg								1	
+3005	/xifu_x/b_houdai/hougaidaigaiyuan	0							0	kuzi		0	0	0	0	1	PK008/hougaidaigaiyuan.jpg								1	
+3006	/xifu_x/b_kutou	1				裤头设计			0			0	1	0	1	1		-0.0236,0.5441,0.0882	0,180,0		0.053,0.44,0.529	0,184.9091,0			0	
+3007	/xifu_x/b_kutou/wukutoukou	0							0	kuzi		0	0	0	0	1	PK006/NO_PK006.jpg								1	
+3008	/xifu_x/b_kutou/youkutoukou	0							0	kuzi		0	0	0	1	1	PK006/kutoukou.jpg	0.1759,0.4688,0.0108	0,220,0		0.518,0.425,0.437	0,226.9099,0			1	
+3009	/xifu_x/b_qiancadai	1				袋子设计			0			0	1	0	1	1		0.1759,0.4688,0.0108	0,220,0		0.518,0.425,0.437	0,226.9099,0			0	
+3010	/xifu_x/b_qiancadai/kuzizhuti	1							0	kuzi		0	0	0	1	1									1	
+3011	/xifu_x/b_qiancadai/b_hengcadai	0							0			0	1	0	0	1	PK003/hengcadai.jpg	0.098,0.407,0.068	0,180.9424,0		0.063,0.425,0.623	0,189.6,0			0	
+3012	/xifu_x/b_qiancadai/b_hengcadai/hengcadai_2	0							0	kuzi		0	0	0	0	1	PK004/suanjian.jpg								1	
+3013	/xifu_x/b_qiancadai/b_hengcadai/hengcadai_1	0							0	kuzi		0	0	0	0	1	PK004/danjian.jpg								1	
+3014	/xifu_x/b_qiancadai/b_hengcadai/hengcadai_0	0							0	kuzi		0	0	0	1	1	PK004/NO_PK004.jpg								1	
+3015	/xifu_x/b_qiancadai/b_xiecadai	0							0			0	1	0	1	1	PK003/xiecadai.gif	0.098,0.407,0.068	0,180.9424,0		0.063,0.425,0.623	0,189.6,0			0	
+3016	/xifu_x/b_qiancadai/b_xiecadai/xiecadai_2	0							0	kuzi		0	0	0	0	1	PK004/suanjian.jpg								1	
+3017	/xifu_x/b_qiancadai/b_xiecadai/xiecadai_1	0							0	kuzi		0	0	0	0	1	PK004/danjian.jpg								1	
+3018	/xifu_x/b_qiancadai/b_xiecadai/xiecadai_0	0							0	kuzi		0	0	0	1	1	PK004/NO_PK004.jpg								1	
+3019	/xifu_x/b_qiancadai/b_lxingcadai	0							0			0	1	0	0	1	PK003/Lxingcadai.jpg	0.098,0.407,0.068	0,180.9424,0		0.063,0.425,0.623	0,189.6,0			0	
+3020	/xifu_x/b_qiancadai/b_lxingcadai/Lxingcadai_2	0							0	kuzi		0	0	0	0	1	PK004/suanjian.jpg								1	
+3021	/xifu_x/b_qiancadai/b_lxingcadai/Lxingcadai_1	0							0	kuzi		0	0	0	0	1	PK004/danjian.jpg								1	
+3022	/xifu_x/b_qiancadai/b_lxingcadai/Lxingcadai_0	0							0	kuzi		0	0	0	1	1	PK004/NO_PK004.jpg								1	
+3023	/xifu_x/b_jiaokou	1				脚口设计			0			0	1	0	1	1		-0.0749,-0.459,0.04	0,190,0		-0.625,-0.279,0.505	0,130,0			0	
+3024	/xifu_x/b_jiaokou/fanjjiaokou	0							0	kuzi		0	0	0	0	1	PK005/fanjjiaokou.jpg								1	
+3025	/xifu_x/b_jiaokou/mingxiancejiaokou	0							0	kuzi		0	0	0	0	1	PK005/mingxiancejiaokou.jpg								1	
+3026	/xifu_x/b_jiaokou/tiaojiaokou	0							0	kuzi		0	0	0	1	1	PK005/tiaojiaokou.jpg								1	
+3027	/xifu_x/b_erzi	1							0			0	1	0	1	1									0	
+3028	/xifu_x/b_erzi/erzaizhidai	0							0	kuzi		0	0	0	1	1	PK007/erzaizhidai.jpg								1	
+3029	/xifu_x/jiazi_x	1							0	jiazi02		0	0	1	1	1									0	
+3030	/xifu_x/jiazi_x/xiezi	0							0	xie_		0	0	1	1	1									0	

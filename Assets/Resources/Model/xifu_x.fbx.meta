@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 3441a7bed1c82d44383b0f3ee9d3b93b
+timeCreated: 1470295140
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: dingkou
+    100002: erzaizhidai
+    100004: fanjjiaokou
+    100006: hengcadai_0
+    100008: hengcadai_1
+    100010: hengcadai_2
+    100012: houdaidaigaifang
+    100014: houdaidaigaisan
+    100016: hougaidaigaiyuan
+    100018: jiazi_x
+    100020: kuzizhuti
+    100022: Lxingcadai_0
+    100024: Lxingcadai_1
+    100026: Lxingcadai_2
+    100028: mingxiancejiaokou
+    100030: tiaojiaokou
+    100032: wukutoukou
+    100034: xiecadai_0
+    100036: xiecadai_1
+    100038: xiecadai_2
+    100040: xiezi
+    100042: //RootNode
+    100044: youkutoukou
+    400000: dingkou
+    400002: erzaizhidai
+    400004: fanjjiaokou
+    400006: hengcadai_0
+    400008: hengcadai_1
+    400010: hengcadai_2
+    400012: houdaidaigaifang
+    400014: houdaidaigaisan
+    400016: hougaidaigaiyuan
+    400018: jiazi_x
+    400020: kuzizhuti
+    400022: Lxingcadai_0
+    400024: Lxingcadai_1
+    400026: Lxingcadai_2
+    400028: mingxiancejiaokou
+    400030: tiaojiaokou
+    400032: wukutoukou
+    400034: xiecadai_0
+    400036: xiecadai_1
+    400038: xiecadai_2
+    400040: xiezi
+    400042: //RootNode
+    400044: youkutoukou
+    2300000: dingkou
+    2300002: erzaizhidai
+    2300004: fanjjiaokou
+    2300006: hengcadai_0
+    2300008: hengcadai_1
+    2300010: hengcadai_2
+    2300012: houdaidaigaifang
+    2300014: houdaidaigaisan
+    2300016: hougaidaigaiyuan
+    2300018: jiazi_x
+    2300020: kuzizhuti
+    2300022: Lxingcadai_0
+    2300024: Lxingcadai_1
+    2300026: Lxingcadai_2
+    2300028: mingxiancejiaokou
+    2300030: tiaojiaokou
+    2300032: wukutoukou
+    2300034: xiecadai_0
+    2300036: xiecadai_1
+    2300038: xiecadai_2
+    2300040: xiezi
+    2300042: youkutoukou
+    3300000: dingkou
+    3300002: erzaizhidai
+    3300004: fanjjiaokou
+    3300006: hengcadai_0
+    3300008: hengcadai_1
+    3300010: hengcadai_2
+    3300012: houdaidaigaifang
+    3300014: houdaidaigaisan
+    3300016: hougaidaigaiyuan
+    3300018: jiazi_x
+    3300020: kuzizhuti
+    3300022: Lxingcadai_0
+    3300024: Lxingcadai_1
+    3300026: Lxingcadai_2
+    3300028: mingxiancejiaokou
+    3300030: tiaojiaokou
+    3300032: wukutoukou
+    3300034: xiecadai_0
+    3300036: xiecadai_1
+    3300038: xiecadai_2
+    3300040: xiezi
+    3300042: youkutoukou
+    4300000: erzaizhidai
+    4300002: wukutoukou
+    4300004: xiezi
+    4300006: tiaojiaokou
+    4300008: mingxiancejiaokou
+    4300010: fanjjiaokou
+    4300012: kuzizhuti
+    4300014: Lxingcadai_2
+    4300016: hengcadai_2
+    4300018: xiecadai_2
+    4300020: Lxingcadai_1
+    4300022: hengcadai_1
+    4300024: xiecadai_1
+    4300026: Lxingcadai_0
+    4300028: hengcadai_0
+    4300030: houdaidaigaisan
+    4300032: hougaidaigaiyuan
+    4300034: houdaidaigaifang
+    4300036: youkutoukou
+    4300038: dingkou
+    4300040: xiecadai_0
+    4300042: jiazi_x
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

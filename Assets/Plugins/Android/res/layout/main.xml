@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/exit_layout"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/confirm_dialog_bg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/alipayButton"
+        style="@style/GrayBoaderButton"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        android:text="@string/alipay" />
+
+    <Button
+        android:id="@+id/wechatButton"
+        style="@style/GrayBoaderButton"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:textSize="20sp"
+        android:text="@string/wechat" />
+
+    <Button
+        android:id="@+id/upmpButton"
+        style="@style/GrayBoaderButton"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:textSize="20sp"
+        android:text="@string/upmp" />
+
+    <!--
+        <Button
+            android:id="@+id/bfbButton"
+            style="@style/GrayBoaderButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/upmpButton"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/bfb" />
+
+        <Button
+            android:id="@+id/jdpayButton"
+            style="@style/GrayBoaderButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bfbButton"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/jdpay" />
+    -->
+
+    <Button
+        android:id="@+id/cancelButton"
+        style="@style/GrayBoaderButton"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:textSize="20sp"
+        android:text="@string/cancel" />
+
+</LinearLayout>

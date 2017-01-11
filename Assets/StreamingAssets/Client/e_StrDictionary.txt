@@ -1,0 +1,307 @@
+﻿Id	Key	Value
+# 设计相关(dc_)		
+1	dc_fabric	fabric  
+# 主页(m_)		
+2	m_design	DIY
+3	m_trendy	PopInfo
+4	m_recommend	Recommend
+5	m_home	Home
+6	m_shopcar	ShopCart
+7	m_appointment	Appointment
+8	m_story	Brand
+# 个人中心(pc_)		
+9	pc_info	Profile
+10	pc_logout	Logout
+11	pc_quit	Exit
+12	pc_order	Orders
+13	pc_size	Size
+14	pc_collect	Wishlist
+15	pc_share	Share
+16	pc_wallet	Wallet
+# 登录(l_)		
+17	l_title	Login 
+18	l_phone	MobileNo
+19	l_password	Password
+20	l_login	Login
+21	l_register	Register 
+22	l_forgetpw	Forget
+# 注册(r_)		
+23	r_title	Register
+24	r_registr	Register
+25	r_verification	GetVerifyCode
+26	r_phone	MobileNo
+27	r_captcha	Please Input VerifyCode
+28	r_password	Please Input Password
+# 忘记密码(fp_)		
+29	fp_title	Reset Password 
+30	fp_reset	Reset 
+31	fp_phone	MobileNo
+32	fp_getcaptcha	GetVerifyCode 
+33	fp_captcha	Please Input VerifyCode
+34	fp_pw	Please Input Password
+35	fp_pw2	Repeat Password
+36	fp_tip	New Password Should Be Different With Old Password
+# 我的信息(ui_)		
+37	ui_title	Profiles
+38	ui_save	Save
+39	ui_name	Name
+40	ui_nickname	Nickname
+41	ui_phone	Mobile
+42	ui_cellphone	Mobile
+43	ui_head	HeadPortrait
+# 我的订单(o_)		
+44	o_title	MyOrder
+45	o_payment	ForPayment
+46	o_receiving	ForReceive
+47	o_comment	ForComment
+48	o_all	All
+# 我的尺寸(cst_)		
+49	cst_title	Size
+50	cst_mysize	BodySize
+51	cst_clothsize	ShirtSize
+52	cst_appointment	Hotline
+# 我的收藏(c_)		
+53	c_title	Wishlist
+54	c_collect	added
+# 潮流资讯(t_)		
+55	t_title	Pop Info
+# 款式推荐(re_)		
+56	re_title	Style Reference 
+# 预约量身(a_)		Appoinment To Measure
+57	a_title	Hotline
+58	a_tip	Guangzhou And Gongguan Available 
+# 品牌故事(b_)		BrandStory
+59	b_title	BrandStory
+# 购物车(sc_）		
+60	sc_title	Shop Cart
+61	sc_all	All
+62	sc_total	Total:
+63	sc_currency	$
+64	sc_submit	Place Order
+65	sc_quantity	Qty:
+# 订单列表项(or_p_)		
+66	or_p_oo	PO#:
+67	or_p_mun	Qty:
+68	or_p_quantity	Qty:
+69	or_p_pri	Amount
+70	or_p_currency	$
+71	or_p_appraise	Comment And Share 
+72	or_p_pay	Checkout 
+73	or_p_cancle	Cancel
+74	or_p_receipt	ConfirmReceived
+75	or_p_blclothespay	BILANG(CombinedPayment)
+76	or_p_blclothes	BILANG
+77	or_p_recipient	Received 
+78	or_p_delivery	Consigned
+79	or_p_payment	ForPayment
+80	or_p_hbcancle	Cancelled
+#订单详情(or_d_)		
+81	or_d_title	Details
+82	or_d_id	PO#:
+83	or_d_quantity	Qty:
+84	or_d_sum	Amount:
+85	or_d_dispatching	Shipping
+86	or_d_testsize	Size
+87	or_d_deliverytype	Shipping in All Day 
+88	or_d_confirm	Confirm received 
+89	or_d_payment	Checkout 
+90	or_d_cancleorder	Cancel order 
+# 开始测量(ms_)		
+91	ms_title	Start measure
+92	ms_method	Measure method
+93	ms_neck	 Neck length
+94	ms_bust	Chest circle
+95	ms_waistline	Waist circle 
+96	ms_clotheslength	Body length
+97	ms_sleevelength	Sleeve length
+98	ms_shoulder	Shoulder width
+99	ms_cuff	Cuff width
+100	ms_sleevewidth	Bicep size
+101	ms_testneck	From button center to button hole center
+102	ms_testbust	"Button up, at the armhole' bottom from left to right as picture and double"
+103	ms_testwaistline	"Button up,at the narrowest part ,from left to right and double"
+104	ms_testclotheslength	From the seam Of the neck to the ham 
+105	ms_testsleevelength	From the sleeve's top to the cuff's edge
+106	ms_testshoulder	"At the shoulder's top,from left to right"
+107	ms_testcuff	"Button up,double from left to right"
+108	ms_testsleevewidth	Measure as picture 
+#测量尺寸(mm_)		
+109	mm_title	Measurement
+110	mm_neck	Neck
+111	mm_bust	Chest
+112	mm_waistline	Waist
+113	mm_clotheslength	Body length
+114	mm_sleevelength	Sleeve length
+115	mm_shoulder	Shoulder width
+116	mm_cuff	Cuff width
+117	mm_sleevewidth	Bicep width
+118	mm_historysize	History size
+119	mm_referencesize	Refer size 
+#历史尺寸(mm_hy)		
+120	mm_hy_title	History size
+121	mm_hy_neck	Neck
+122	mm_hy_bust	Chest 
+123	mm_hy_waistline	Waist
+124	mm_hy_clotheslength	Body Len
+125	mm_hy_sleevelength	Sleeve
+126	mm_hy_shoulder	Shoulder
+127	mm_hy_cuff	Cuff
+128	mm_hy_sleevewidth	Bicep
+129	mm_hy_choosesize	Select
+#参考尺寸(mm_r)		
+130	mm_r_title	Refer size
+131	mm_r_size	Refer size 
+132	mm_r_neck	Neck
+133	mm_r_bust	Chest 
+134	mm_r_waistline	Waist
+135	mm_r_clotheslength	Body len
+136	mm_r_sleevelength	Sleeve
+137	mm_r_shoulder	Shoulder
+138	mm_r_cuff	Cuff
+139	mm_r_sleevewidth	Bicep
+140	mm_r_choose	Confirm
+#我的尺寸(mys_)		
+141	mys_title	MySize 
+142	mys_height	Height 
+143	mys_weight	Weight
+144	mys_shoulder	Shoulder width
+145	mys_bust	Chest 
+146	mys_waistline	Waist
+147	mys_hipline	Ham 
+#确认订单(or_c_)		
+148	or_c_title	Place order
+149	or_c_orderlist	List of order
+150	or_c_testsize	Size
+151	or_c_coupon	Coupon
+152	or_c_time	Shipping Time:
+153	or_c_money	Amount
+154	or_c_pay	Checkout
+#收货地址(addr_)		
+155	addr_title	Shipping Information
+156	addr_newaddress	New Address 
+157	addr_default	Default
+158	addr_compile	Edit
+159	addr_delete	Delete
+#编辑地址(addr_edit_)		
+160	addr_edit_name	Consignee
+161	addr_edit_phone	PhoneNo
+162	addr_edit_province	Province
+163	addr_edit_city	City
+164	addr_edit_district	District 
+165	addr_edit_address	Address
+166	addr_edit_postalcode	Zip code 
+167	addr_edit_save	Save 
+168	addr_edit_title_newaddress	New Address
+169	addr_edit_title_editaddress	Edit Address
+170	addr_edit_inputname	Name 
+171	addr_edit_inputphone	PhoneNo 
+172	addr_edit_inputaddress	Address Details
+173	addr_edit_inputpostalcode	PostCode
+174	addr_edit_chooseprovince	Province
+175	addr_edit_choosecity	City 
+176	addr_edit_choosearea	District 
+#设计预览(dp_)		
+177	dp_titlepreview	Preview Design
+178	dp_titledesign	Parts Design
+179	dp_next	Parts\nDesign
+180	dp_reset	Reset\nFabric
+#保存款式(ss_)		
+181	ss_savestyle	Save Style 
+182	ss_stylename	Stlyle Name 
+183	ss_designidea	Design Idea
+184	ss_tag	Tag
+185	ss_season	Season
+186	ss_style	Style
+187	ss_save	Save
+188	ss_unlimited	No Limited
+189	ss_showseason	Season
+190	ss_showstyles	Style 
+#衣服定制详情(cd_)		
+191	cd_title	Customize Details 
+192	cd_quantity	Qty
+193	cd_mainfabric	Fabric:
+194	cd_button	Button:
+195	cd_fabric	Fabric:
+196	cd_remark	Remarks:
+#订单支付(p_)		
+197	p_title	Payment
+198	p_choose	Payment method
+199	p_price	￥Total Amount :$
+200	p_pay	Checkout 
+#消息窗口(mb_)		
+201	mb_title	Tip:
+202	mb_promptorder	Decide to cancel the order
+203	mb_promptquit	Decide to quit
+204	mb_cancle	Cancel 
+205	mb_confirm	Confirm 
+206	mb_deleteaddress	Decide to delete the address
+207	mb_deleteclothes	Decide to delete the clothing
+208	mb_deletecollect	Decide to delete the favorite
+#提示(tip_)		
+209	tip_testerror	Measurement Failed
+210	tip_usernameerror	Username incorrect
+211	tip_passworderror	Password invalid
+212	tip_passwordnull	Password empty
+213	tip_passwordiffer	Password incorrect
+214	tip_modifypassword	Reset password successfully 
+215	tip_iderror	Verify code failed
+216	tip_notregister	Mobile not registered yet
+217	tip_logout	Logout failed
+218	tip_modifysuccess	Update successfully 
+219	tip_canclesuccess	Cancel successfully 
+220	tip_requestfail	Request failed
+221	tip_sendid	Verify code sent 
+222	tip_inputphone	Please enter the correct PhoneNum
+223	tip_inputpassword	Password
+224	tip_inputid	Verify password
+225	tip_phoneregister	The mobileNo has been registered
+226	tip_registersuccess	"Registered, please login"
+227	tip_registerfail	Register failed 
+228	tip_inputaddress	Please input address
+229	tip_inputsize	Please input size 
+230	tip_deleteaddress	Delete failed
+231	tip_defaultaddress	Default setting failed
+232	tip_consignee	Consignee empty
+233	tip_phone	PhoneNo empty
+234	tip_province	Province empty
+235	tip_city	City empty
+236	tip_area	District empty
+237	tip_address	Address empty
+238	tip_postalcode	ZipCode empty
+239	tip_canclefail	Order cancellation failed
+240	tip_modifyfail	Update order status failed
+241	tip_chooseclothes	Please select a cloth 
+242	tip_blmajor	BILANG-SpecializeInTailor-Make 
+243	tip_blmc	"BILANG, Men's Tailor-Make !"
+#订单评价(or_v_)		
+244	or_v_title	Order feedback
+245	or_v_code	PO#:
+246	or_v_quantity	QTY:
+247	or_v_evaluate	Please comment here...
+248	or_v_takephoto	Take photo
+249	or_v_photo	Album
+250	or_v_pe	Rate
+251	or_v_quality	Quality
+252	or_v_serve	Service
+253	or_v_size	Well-fitting
+254	or_v_submit	Submit
+#订单支付(or_ps_)		
+255	or_ps_title	Pay Result
+256	or_ps_number	PO#:
+257	or_ps_price	Amount
+258	or_ps_way	Payment Chanel:
+259	or_ps_pnew	RePay
+260	or_ps_wx	WeChatPay
+261	or_ps_upacp	UnionPay
+262	or_ps_alipay	AliPay
+263	or_ps_succeed	Payment Successfully
+264	or_ps_fail	Payment Failed
+#注册信息(pr_)		
+265	pr_title	Profile
+266	pr_username	Account
+267	pr_password	Password
+268	pr_passwordc	Repeat password
+269	pr_name	Name
+270	pr_sex	Sex
+271	pr_register	Register
+272	pr_message	I accept the agreement

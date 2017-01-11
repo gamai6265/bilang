@@ -1,0 +1,5 @@
+﻿Id	TypeName	Models	ModelPos	DefaultView	MinDistance	MaxDistance	Yscope	SampleImage	QueryType
+1	衬衣	1;0,0,0	0,0,0	0,0.33,1.305	0.7	1.32	30,75	PS000/shirt.png	0
+2	西服	2;0,0,0	0,0,0	0,0.33,1.305	0.7	1.32	30,60	PS000/suit.png	0
+3	西裤	3;0,0,0	0,0,0	0,0.33,1.305	0.7	1.32	30,60	PS000/trousers.png	0
+#4	套西	2;0,0.366,0|3;0,-0.318,0.056	0,0,0	0,0.31,1.95	0.7	1.32	30,60	PS002/dajianling.png	0

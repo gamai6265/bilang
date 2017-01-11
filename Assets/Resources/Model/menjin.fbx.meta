@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 515d2db2fe8eea442a056b4ef4d9573a
+timeCreated: 1477473315
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: antongmianpozhong
+    100002: banmianshuangtong
+    100004: dimianluotietong
+    100006: fanzheshuangantong
+    100008: luotiemingtong
+    100010: //RootNode
+    100012: mingtongjiajibian
+    100014: mingtongliangbianjiajibian
+    100016: mingtongzhongluozhidai
+    100018: mingtongzhongluozhuangbu
+    100020: mingxiantong
+    100022: shengtongzhikoudingjin
+    100024: shengzheantonglou01cm
+    100026: shuangzheantong
+    400000: antongmianpozhong
+    400002: banmianshuangtong
+    400004: dimianluotietong
+    400006: fanzheshuangantong
+    400008: luotiemingtong
+    400010: //RootNode
+    400012: mingtongjiajibian
+    400014: mingtongliangbianjiajibian
+    400016: mingtongzhongluozhidai
+    400018: mingtongzhongluozhuangbu
+    400020: mingxiantong
+    400022: shengtongzhikoudingjin
+    400024: shengzheantonglou01cm
+    400026: shuangzheantong
+    2300000: antongmianpozhong
+    2300002: banmianshuangtong
+    2300004: dimianluotietong
+    2300006: fanzheshuangantong
+    2300008: luotiemingtong
+    2300010: mingtongjiajibian
+    2300012: mingtongliangbianjiajibian
+    2300014: mingtongzhongluozhidai
+    2300016: mingtongzhongluozhuangbu
+    2300018: mingxiantong
+    2300020: shengtongzhikoudingjin
+    2300022: shengzheantonglou01cm
+    2300024: shuangzheantong
+    3300000: antongmianpozhong
+    3300002: banmianshuangtong
+    3300004: dimianluotietong
+    3300006: fanzheshuangantong
+    3300008: luotiemingtong
+    3300010: mingtongjiajibian
+    3300012: mingtongliangbianjiajibian
+    3300014: mingtongzhongluozhidai
+    3300016: mingtongzhongluozhuangbu
+    3300018: mingxiantong
+    3300020: shengtongzhikoudingjin
+    3300022: shengzheantonglou01cm
+    3300024: shuangzheantong
+    4300000: luotiemingtong
+    4300002: mingxiantong
+    4300004: shuangzheantong
+    4300006: fanzheshuangantong
+    4300008: dimianluotietong
+    4300010: mingtongzhongluozhidai
+    4300012: mingtongjiajibian
+    4300014: mingtongzhongluozhuangbu
+    4300016: mingtongliangbianjiajibian
+    4300018: banmianshuangtong
+    4300020: antongmianpozhong
+    4300022: shengtongzhikoudingjin
+    4300024: shengzheantonglou01cm
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

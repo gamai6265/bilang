@@ -1,0 +1,307 @@
+﻿Id	Key	Value
+# 设计相关(dc_)		
+1	dc_fabric	面料
+# 主页(m_)		
+2	m_design	自主设计
+3	m_trendy	潮流资讯
+4	m_recommend	款式推荐
+5	m_home	首页
+6	m_shopcar	购物车
+7	m_appointment	预约量身
+8	m_story	品牌故事
+# 个人中心(pc_)		
+9	pc_info	我的信息
+10	pc_logout	注销
+11	pc_quit	退出
+12	pc_order	我的订单
+13	pc_size	我的尺寸
+14	pc_collect	我的收藏
+15	pc_share	我的分享
+16	pc_wallet我的钱包	
+# 登录(l_)		
+17	l_title	登录
+18	l_phone	手机号码
+19	l_password	密码
+20	l_login	登录
+21	l_register	注册
+22	l_forgetpw	忘记密码
+# 注册(r_)		
+23	r_title	注册
+24	r_registr	注册
+25	r_verification	获取验证码
+26	r_phone	请输入手机号码
+27	r_captcha	请输入验证码
+28	r_password	请输入密码
+# 忘记密码(fp_)		
+29	fp_title	重置密码
+30	fp_reset	重置
+31	fp_phone	请输入手机号码
+32	fp_getcaptcha	获取验证码
+33	fp_captcha	请输入验证码
+34	fp_pw	请输入密码
+35	fp_pw2	请再次输入密码
+36	fp_tip	提示:新密码不能与旧密码相同
+# 我的信息(ui_)		
+37	ui_title	个人资料
+38	ui_save	保存
+39	ui_name	名字
+40	ui_nickname	请输入你的名字
+41	ui_phone	手机
+42	ui_cellphone	请输入你的手机号码
+43	ui_head	头像
+# 我的订单(o_)		
+44	o_title	我的订单
+45	o_payment	待付款
+46	o_receiving	待收货
+47	o_comment	待评论
+48	o_all	全部
+# 我的尺寸(cst_)		
+49	cst_title	尺寸选择
+50	cst_mysize	净身尺寸
+51	cst_clothsize	衣服尺寸
+52	cst_appointment	预约量身
+# 我的收藏(c_)		
+53	c_title	我的收藏
+54	c_collect	收藏
+# 潮流资讯(t_)		
+55	t_title	潮流资讯
+# 款式推荐(re_)		
+56	re_title	款式推荐
+# 预约量身(a_)		
+57	a_title	尊贵热线
+58	a_tip	注：现已开通广州与东莞两市
+# 品牌故事(b_)		
+59	b_title	品牌故事
+# 购物车(sc_）		
+60	sc_title	购物车
+61	sc_all	全选
+62	sc_total	合计:
+63	sc_currency	￥
+64	sc_submit	提交订单
+65	sc_quantity	数量:
+# 订单列表项(or_p_)		
+66	or_p_oo	订单号:
+67	or_p_mun	数量:
+68	or_p_quantity	数量:
+69	or_p_pri	实付金额:
+70	or_p_currency	￥
+71	or_p_appraise	评价晒单
+72	or_p_pay	立即支付
+73	or_p_cancle	取消订单
+74	or_p_receipt	确认收货
+75	or_p_blclothespay	比朗服饰(合并付款)
+76	or_p_blclothes	比朗服饰
+77	or_p_recipient	已收货
+78	or_p_delivery	已发货
+79	or_p_payment	待支付
+80	or_p_hbcancle	已取消
+#订单详情(or_d_)		
+81	or_d_title	订单详情
+82	or_d_id	订单编号
+83	or_d_quantity	订单数量
+84	or_d_sum	订单总价
+85	or_d_dispatching	配送方式
+86	or_d_testsize	测量尺寸
+87	or_d_deliverytype	快递 工作日、双休日均可送
+88	or_d_confirm	确认收货
+89	or_d_payment	去付款
+90	or_d_cancleorder	取消订单
+# 开始测量(ms_)		
+91	ms_title	开始测量
+92	ms_method	测量方法
+93	ms_neck	添加领围
+94	ms_bust	添加胸围
+95	ms_waistline	添加腰围
+96	ms_clotheslength	添加衣长
+97	ms_sleevelength	添加袖长
+98	ms_shoulder	添加肩宽
+99	ms_cuff	添加袖口
+100	ms_sleevewidth	添加袖肥
+101	ms_testneck	从衣领一端的纽扣中心到另一端扣眼中心绕量一圈的尺寸。
+102	ms_testbust	扣好纽扣，摊平从衬衣腋下由左边至右边水平尺量后乘于2。
+103	ms_testwaistline	扣好纽扣，摊平从最细处由左边至右边水平尺量后乘于2。
+104	ms_testclotheslength	从颈后中西垂直测量到下摆底边之间的尺寸。
+105	ms_testsleevelength	从肩部与袖身缝合的最高点量至袖口下端的尺寸。
+106	ms_testshoulder	从左肩与袖身缝合的最高点量至右肩与袖身缝合最高点之间的尺寸。
+107	ms_testcuff	扣好袖口左边上第一粒纽边后从左至右水平量尺量后乘于2。
+108	ms_testsleevewidth	从夹底处向上尺量与边呈90度，尺量后乘于2。
+#测量尺寸(mm_)		
+109	mm_title	测量尺寸
+110	mm_neck	领围
+111	mm_bust	胸围
+112	mm_waistline	腰围
+113	mm_clotheslength	衣长
+114	mm_sleevelength	袖长
+115	mm_shoulder	肩宽
+116	mm_cuff	袖口
+117	mm_sleevewidth	袖肥
+118	mm_historysize	历史尺寸
+119	mm_referencesize	参考尺寸
+#历史尺寸(mm_hy)		
+120	mm_hy_title	历史尺寸
+121	mm_hy_neck	领围:
+122	mm_hy_bust	胸围:
+123	mm_hy_waistline	腰围:
+124	mm_hy_clotheslength	衣长:
+125	mm_hy_sleevelength	袖长:
+126	mm_hy_shoulder	肩宽:
+127	mm_hy_cuff	袖口:
+128	mm_hy_sleevewidth	袖肥:
+129	mm_hy_choosesize	选择该尺寸
+#参考尺寸(mm_r)		
+130	mm_r_title	参考尺寸
+131	mm_r_size	套码尺寸
+132	mm_r_neck	领围:
+133	mm_r_bust	胸围:
+134	mm_r_waistline	腰围:
+135	mm_r_clotheslength	衣长:
+136	mm_r_sleevelength	袖长:
+137	mm_r_shoulder	肩宽:
+138	mm_r_cuff	袖口:
+139	mm_r_sleevewidth	袖肥:
+140	mm_r_choose	选中尺寸
+#我的尺寸(mys_)		
+141	mys_title	我的尺寸
+142	mys_height	身高
+143	mys_weight	体重
+144	mys_shoulder	肩宽
+145	mys_bust	胸围
+146	mys_waistline	腰围
+147	mys_hipline	臀围
+#确认订单(or_c_)		
+148	or_c_title	确认订单
+149	or_c_orderlist	订单列表
+150	or_c_testsize	测量尺寸
+151	or_c_coupon	优惠卷
+152	or_c_time	预计交货时间:
+153	or_c_money	实付款
+154	or_c_pay	立即支付
+#收货地址(addr_)		
+155	addr_title	收货地址
+156	addr_newaddress	新增收货地址
+157	addr_default	设为默认地址
+158	addr_compile	编辑
+159	addr_delete	删除
+#编辑地址(addr_edit_)		
+160	addr_edit_name	收货人
+161	addr_edit_phone	联系电话
+162	addr_edit_province	所在省份
+163	addr_edit_city	所在城市
+164	addr_edit_district	所在地区
+165	addr_edit_address	详细地址
+166	addr_edit_postalcode	邮政编码
+167	addr_edit_save	保存
+168	addr_edit_title_newaddress	新增收货地址
+169	addr_edit_title_editaddress	编辑收货地址
+170	addr_edit_inputname	请输入姓名
+171	addr_edit_inputphone	请输入电话
+172	addr_edit_inputaddress	请输入地址详情
+173	addr_edit_inputpostalcode	请输入邮政编码
+174	addr_edit_chooseprovince	所在省份
+175	addr_edit_choosecity	所在城市
+176	addr_edit_choosearea	所在地区
+#设计预览(dp_)		
+177	dp_titlepreview	设计预览
+178	dp_titledesign	部件设计
+179	dp_next	部件\n设计
+180	dp_reset	更换\n主面料
+#保存款式(ss_)		
+181	ss_savestyle	保存款式
+182	ss_stylename	款式名称
+183	ss_designidea	设计理念
+184	ss_tag	个性标签
+185	ss_season	季节
+186	ss_style	风格
+187	ss_save	保存
+188	ss_unlimited	不限
+189	ss_showseason	季节:
+190	ss_showstyles	风格:
+#衣服定制详情(cd_)		
+191	cd_title	衣服定制详情
+192	cd_quantity	数量:
+193	cd_mainfabric	主面料:
+194	cd_button	纽扣:
+195	cd_fabric	面料:
+196	cd_remark	备注:
+#订单支付(p_)		
+197	p_title	支付订单
+198	p_choose	请选择支付方式
+199	p_price	实付款: ￥
+200	p_pay	立即支付
+#消息窗口(mb_)		
+201	mb_title	提示：
+202	mb_promptorder	是否取消订单
+203	mb_promptquit	是否退出
+204	mb_cancle	取消
+205	mb_confirm	确定
+206	mb_deleteaddress	是否删除地址
+207	mb_deleteclothes	是否删除此衣服
+208	mb_deletecollect	是否删除此收藏
+#提示(tip_)		
+209	tip_testerror	测量尺寸失败了!
+210	tip_usernameerror	用户名不正确
+211	tip_passworderror	密码错误
+212	tip_passwordnull	密码不能为空
+213	tip_passwordiffer	密码不一致
+214	tip_modifypassword	修改密码成功
+215	tip_iderror	验证码错误
+216	tip_notregister	该手机号码未被注册
+217	tip_logout	注销失败了
+218	tip_modifysuccess	修改成功
+219	tip_canclesuccess	取消成功
+220	tip_requestfail	请求失败
+221	tip_sendid	验证码已发送
+222	tip_inputphone	请输入正确的电话号码
+223	tip_inputpassword	请输入密码
+224	tip_inputid	请输入验证码
+225	tip_phoneregister	该手机号码已被注册
+226	tip_registersuccess	注册成功请登录
+227	tip_registerfail	注册失败
+228	tip_inputaddress	请输入地址
+229	tip_inputsize	请输入尺寸
+230	tip_deleteaddress	删除失败了
+231	tip_defaultaddress	设置默认失败了
+232	tip_consignee	收货人不能为空
+233	tip_phone	联系电话不能为空
+234	tip_province	所在省份不能为空
+235	tip_city	所在城市不能为空
+236	tip_area	所在地区不能为空
+237	tip_address	详细地址不能为空
+238	tip_postalcode	邮政编码不能为空
+239	tip_canclefail	取消订单失败了
+240	tip_modifyfail	修改订单状态失败了
+241	tip_chooseclothes	请选择衣服
+242	tip_blmajor	比朗-专业定制
+243	tip_blmc	比朗男装定制
+#订单评价(or_v_)		
+244	or_v_title	订单评价
+245	or_v_code	订单号:
+246	or_v_quantity	数量:
+247	or_v_evaluate	请说说您的评价…
+248	or_v_takephoto	拍照
+249	or_v_photo	本地相册
+250	or_v_pe	给商品评价
+251	or_v_quality	产品质量
+252	or_v_serve	服务态度
+253	or_v_size	尺寸合适
+254	or_v_submit	提交
+#订单支付(or_ps_)		
+255	or_ps_title	支付结果
+256	or_ps_number	订单号
+257	or_ps_price	价格金额
+258	or_ps_way	支付方式
+259	or_ps_pnew	重新支付
+260	or_ps_wx	微信支付
+261	or_ps_upacp	银联支付
+262	or_ps_alipay	支付宝支付
+263	or_ps_succeed	订单支付成功
+264	or_ps_fail	订单支付失败
+#注册信息(pr_)		
+265	pr_title	基本信息
+266	pr_username	用户名
+267	pr_password	密码
+268	pr_passwordc	确认密码
+269	pr_name	姓名
+270	pr_sex	性别
+271	pr_register	注册
+272	pr_message	我已同意比朗男装定制用户协议

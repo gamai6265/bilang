@@ -1,0 +1,137 @@
+﻿Id	PartPath	ChildType	ChildValue	InfluenceFactors	ExpectValues	DisplayName	RejectParts	AssociateFabricPart	IsDoubleSide	MetarialName1	MetarialName2	IsGlobalMetarial	IsMountPoint	IsDecorate	IsDefault	IsValid	SampleImage	HotPoint	HotPointRotation	HotPointHides	ViewPoint	ViewPointRotation	Weight	Instruction	IsObsolete	ModelSize
+2901	/xifu_s	0						2906					1			1									0	
+2902	/xifu_s/bone_shirt	1							0			0	0	1	1	1									0	
+2903	/xifu_s/b_lingzi	1							0			0	1	0	1	1									0	
+2904	/xifu_s/b_lingzi/b_lingzi1	0		2927									1	0											0	
+2048	/xifu_s/b_lingzi/b_lingzi1/xifulingzi	3			0	无饰边			0	shangyi		0	0	0	1	1	PW015/NO_PW015.jpg						0.02		1	
+2047	/xifu_s/b_lingzi/b_lingzi1/lingzishibian	3			1	有饰边			0	shangyi		0	0	0	0	1	PW015/lingzishibian.jpg						0.02		1	
+2905	/xifu_s/b_houfu	1				后幅设计			0			0	1	0	1	1		-0.04,0.08,-0.174	0,0,0		-0.2,-0.07,-1.097	357.5,10,-1.335292E-08			0	
+2801	/xifu_s/b_houfu/houfuzhedan	1							0	shangyi		0	0	0	1	1							0.2		1	
+2010	/xifu_s/b_houfu/ceca	0				开双叉			0	shangyi		0	0	0	1	1	PW003/ceca.jpg						0.2		1	shoulder_breadth_suit
+2009	/xifu_s/b_houfu/bukaica	0				后背二片不开叉			0	shangyi		0	0	0	0	1	PW003/bukaica.jpg						0.2		1	shoulder_breadth_suit
+2011	/xifu_s/b_houfu/danpianhoushen	0				后背三片不开叉			0	shangyi		0	0	0	0	1	PW003/danpianhoushen.jpg						0.2		1	shoulder_breadth_suit
+2012	/xifu_s/b_houfu/youguojian	0				后背三片不开叉（带过肩唧边）			0	shangyi		0	0	0	0	1	PW003/youguojian.jpg						0.2		1	shoulder_breadth_suit
+2008	/xifu_s/b_houfu/zhongca	0				开单叉			0	shangyi		0	0	0	0	1	PW003/zhongca.jpg						0.2		1	shoulder_breadth_suit
+2906	/xifu_s/b_qianfu	1							0			0	1	0	1	1									0	
+2907	/xifu_s/b_qianfu/b_botou	1				博头设计							1					0.077,0.184,0.151	0,180,3.733867E-05		-0.242,0.233,0.509	0,155,0			0	
+2003	/xifu_s/b_qianfu/b_botou/b_botou1	0		2916		倾果领							1				PW001/qinguoling.jpg						0.1		0	
+200301	/xifu_s/b_qianfu/b_botou/b_botou1/danpai_qinguoling_2	3			2	倾果领		2906	0	shangyi		0	0	0	0	1	PW001/qinguoling.jpg						0.1		1	
+200302	/xifu_s/b_qianfu/b_botou/b_botou1/danpai_qinguoling_3	3			3	倾果领		2906	0	shangyi		0	0	0	0	1	PW001/qinguoling.jpg						0.1		1	
+200303	/xifu_s/b_qianfu/b_botou/b_botou1/danpai_qinguoling_1	3			1	倾果领		2906	0	shangyi		0	0	0	0	1	PW001/qinguoling.jpg						0.1		1	
+200304	/xifu_s/b_qianfu/b_botou/b_botou1/suanpai_qinguoling_2	3			5	倾果领		2906	0	shangyi		0	0	0	0	1	PW001/qinguoling.jpg						0.1		1	
+200305	/xifu_s/b_qianfu/b_botou/b_botou1/suanpai_qinguoling_3	3			6	倾果领		2906	0	shangyi		0	0	0	0	1	PW001/qinguoling.jpg						0.1		1	
+200306	/xifu_s/b_qianfu/b_botou/b_botou1/suanpai_qinguoling_1	3			4	倾果领		2906	0	shangyi		0	0	0	0	1	PW001/qinguoling.jpg						0.1		1	
+2002	/xifu_s/b_qianfu/b_botou/b_botou2	0		2927|2916		枪驳领							1				PW001/qianboling.jpg						0.1		0	
+200201	/xifu_s/b_qianfu/b_botou/b_botou2/danpai_qianboling_2	3			0|2	枪驳领		2906	0	shangyi		0	0	0	0	1	PW001/qianboling.jpg						0.1		1	
+200202	/xifu_s/b_qianfu/b_botou/b_botou2/danpai_qianboling_3	3			0|3	枪驳领		2906	0	shangyi		0	0	0	0	1	PW001/qianboling.jpg						0.1		1	
+200203	/xifu_s/b_qianfu/b_botou/b_botou2/danpai_qianboling_1	3			0|1	枪驳领		2906	0	shangyi		0	0	0	1	1	PW001/qianboling.jpg						0.1		1	
+200204	/xifu_s/b_qianfu/b_botou/b_botou2/suanpai_qianboling_2	3			0|5	枪驳领		2906	0	shangyi		0	0	0	0	1	PW001/qianboling.jpg						0.1		1	
+200205	/xifu_s/b_qianfu/b_botou/b_botou2/suanpai_qianboling_3	3			0|6	枪驳领		2906	0	shangyi		0	0	0	0	1	PW001/qianboling.jpg						0.1		1	
+200206	/xifu_s/b_qianfu/b_botou/b_botou2/suanpai_qianboling_1	3			0|4	枪驳领		2906	0	shangyi		0	0	0	0	1	PW001/qianboling.jpg						0.1		1	
+200207	/xifu_s/b_qianfu/b_botou/b_botou2/danpai_qianboling_botoushibian_2	3			1|2			2906	0	shangyi		0	0	0	0	1									1	
+200208	/xifu_s/b_qianfu/b_botou/b_botou2/danpai_qianboling_botoushibian_3	3			1|3			2906	0	shangyi		0	0	0	0	1									1	
+200209	/xifu_s/b_qianfu/b_botou/b_botou2/danpai_qianboling_botoushibian_1	3			1|1			2906	0	shangyi		0	0	0	0	1									1	
+200210	/xifu_s/b_qianfu/b_botou/b_botou2/suanpai_qianboling_botoushibian_1	3			1|4			2906	0	shangyi		0	0	0	0	1									1	
+200211	/xifu_s/b_qianfu/b_botou/b_botou2/suanpai_qianboling_botoushibian_2	3			1|5			2906	0	shangyi		0	0	0	0	1									1	
+200212	/xifu_s/b_qianfu/b_botou/b_botou2/suanpai_qianboling_botoushibian_3	3			1|6			2906	0	shangyi		0	0	0	0	1									1	
+2001	/xifu_s/b_qianfu/b_botou/b_botou3	0		2927|2916		平驳领							1				PW001/pingboling.jpg						0.1		0	
+200101	/xifu_s/b_qianfu/b_botou/b_botou3/danpai_pingboling_2	3			0|2	平驳领		2906	0	shangyi		0	0	0	0	1	PW001/pingboling.jpg						0.1		1	
+200102	/xifu_s/b_qianfu/b_botou/b_botou3/danpai_pingboling_3	3			0|3	平驳领		2906	0	shangyi		0	0	0	0	1	PW001/pingboling.jpg						0.1		1	
+200103	/xifu_s/b_qianfu/b_botou/b_botou3/danpai_pingboling_1	3			0|1	平驳领		2906	0	shangyi		0	0	0	0	1	PW001/pingboling.jpg						0.1		1	
+200104	/xifu_s/b_qianfu/b_botou/b_botou3/suanpai_pingboling_2	3			0|5	平驳领		2906	0	shangyi		0	0	0	0	1	PW001/pingboling.jpg						0.1		1	
+200105	/xifu_s/b_qianfu/b_botou/b_botou3/suanpai_pingboling_3	3			0|6	平驳领		2906	0	shangyi		0	0	0	0	1	PW001/pingboling.jpg						0.1		1	
+200106	/xifu_s/b_qianfu/b_botou/b_botou3/suanpai_pingboling_1	3			0|4	平驳领		2906	0	shangyi		0	0	0	0	1	PW001/pingboling.jpg						0.1		1	
+200107	/xifu_s/b_qianfu/b_botou/b_botou3/danpai_pingboling_botoushibian_2	3			1|2			2906	0	shangyi		0	0	0	0	1									1	
+200108	/xifu_s/b_qianfu/b_botou/b_botou3/danpai_pingboling_botoushibian_3	3			1|3			2906	0	shangyi		0	0	0	0	1									1	
+200109	/xifu_s/b_qianfu/b_botou/b_botou3/danpai_pingboling_botoushibian_1	3			1|1			2906	0	shangyi		0	0	0	0	1									1	
+200110	/xifu_s/b_qianfu/b_botou/b_botou3/suanpai_pingboling_botoushibian_1	3			1|4			2906	0	shangyi		0	0	0	0	1									1	
+200111	/xifu_s/b_qianfu/b_botou/b_botou3/suanpai_pingboling_botoushibian_2	3			1|5			2906	0	shangyi		0	0	0	0	1									1	
+200112	/xifu_s/b_qianfu/b_botou/b_botou3/suanpai_pingboling_botoushibian_3	3			1|6			2906	0	shangyi		0	0	0	0	1									1	
+2916	/xifu_s/b_qianfu/b_kouzi	1				纽扣设计							1					-0.0205,0.0244,0.151	0,180,3.733867E-05		0.031,0,0.823	4.170001,182.15,6.68781E-09			1	
+2039	/xifu_s/b_qianfu/b_kouzi/b_kouzi_d_1	0	1	2927		单排一粒钮							1				PW013/danpaiyiliniu.jpg						0		0	
+203901	/xifu_s/b_qianfu/b_kouzi/b_kouzi_d_1/danpai_yiliniu_shibian_1	3			1	单排一粒钮		2906	0	shangyi		0	0	0	0	1	PW013/danpaiyiliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+203902	/xifu_s/b_qianfu/b_kouzi/b_kouzi_d_1/danpai_yiliniu_1	3			0	单排一粒钮		2906	0	shangyi		0	0	0	1	1	PW013/danpaiyiliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+2040	/xifu_s/b_qianfu/b_kouzi/b_kouzi_d_2	0	2	2927		单排两粒钮							1				PW013/danpailiangliniu.jpg						0		0	
+204001	/xifu_s/b_qianfu/b_kouzi/b_kouzi_d_2/danpai_liangliniu_shibian_2	3			1	单排两粒钮		2906	0	shangyi		0	0	0	0	1	PW013/danpailiangliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+204002	/xifu_s/b_qianfu/b_kouzi/b_kouzi_d_2/danpai_liangliniu_2	3			0	单排两粒钮		2906	0	shangyi		0	0	0	0	1	PW013/danpailiangliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+2041	/xifu_s/b_qianfu/b_kouzi/b_kouzi_d_3	0	3	2927		单排三粒钮							1				PW013/danpaisanliniu.jpg						0		0	
+204101	/xifu_s/b_qianfu/b_kouzi/b_kouzi_d_3/danpai_sanliniu_shibian_3	3			1	单排三粒钮		2906	0	shangyi		0	0	0	0	1	PW013/danpaisanliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+204102	/xifu_s/b_qianfu/b_kouzi/b_kouzi_d_3/danpai_sanliniu_3	3			0	单排三粒钮		2906	0	shangyi		0	0	0	0	1	PW013/danpaisanliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+2141	/xifu_s/b_qianfu/b_kouzi/b_kouzi_s_1	0	4	2927		双排一粒纽							1				PW013/suanpaiyiliniu.jpg						0		0	
+214101	/xifu_s/b_qianfu/b_kouzi/b_kouzi_s_1/suanpai_yiliniu_shibian_1	3			1	双排一粒纽		2906	0	shangyi		0	0	0	0	1	PW013/suanpaiyiliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+214102	/xifu_s/b_qianfu/b_kouzi/b_kouzi_s_1/suanpai_yiliniu_1	3			0	双排一粒纽		2906	0	shangyi		0	0	0	0	1	PW013/suanpaiyiliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+2142	/xifu_s/b_qianfu/b_kouzi/b_kouzi_s_2	0	5	2927		双排两粒纽							1				PW013/suanpailiangliniu.jpg						0		0	
+214201	/xifu_s/b_qianfu/b_kouzi/b_kouzi_s_2/suanpai_liangliniu_shibian_2	3			1	双排两粒纽		2906	0	shangyi		0	0	0	0	1	PW013/suanpailiangliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+214202	/xifu_s/b_qianfu/b_kouzi/b_kouzi_s_2/suanpai_liangliniu_2	3			0	双排两粒纽		2906	0	shangyi		0	0	0	0	1	PW013/suanpailiangliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+2143	/xifu_s/b_qianfu/b_kouzi/b_kouzi_s_3	0	6	2927		双排三粒纽							1				PW013/suanpaisanliniu.jpg						0		0	
+214301	/xifu_s/b_qianfu/b_kouzi/b_kouzi_s_3/suanpai_sanliniu_3	3			0	双排三粒纽		2906	0	shangyi		0	0	0	0	1	PW013/suanpaisanliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+214302	/xifu_s/b_qianfu/b_kouzi/b_kouzi_s_3/suanpai_sanliniu_shibain_3	3			1	双排三粒纽		2906	0	shangyi		0	0	0	0	1	PW013/suanpaisanliniu.jpg						0		1	chest_width_suit|chest_circle_suit|tummy_circle_suit|hips_suit|center_front_length_suit
+2920	/xifu_s/b_qianfu/b_xiabai	1				下摆设计							1					-0.053,-0.339,0.151	0,180,3.733867E-05		0.055,-0.116,0.8	4,182.5,6.686394E-09			0	
+2017	/xifu_s/b_qianfu/b_xiabai/b_xiabai1	0		2927|2916		大方角下摆							1				PW004/dafanjaioxiabai.jpg						0		0	
+201701	/xifu_s/b_qianfu/b_xiabai/b_xiabai1/danpai_dafanjiaoxiabai	3			0|1;2;3	大方角下摆		2905	0	shangyi		0	0	0	0	1	PW004/dafanjaioxiabai.jpg						0		1	
+201702	/xifu_s/b_qianfu/b_xiabai/b_xiabai1/suanpai_dafanjaioxiabai	3			0|4;5;6	大方角下摆		2905	0	shangyi		0	0	0	0	1	PW004/dafanjaioxiabai.jpg						0		1	
+201703	/xifu_s/b_qianfu/b_xiabai/b_xiabai1/danpai_dafanjaioxiabai_shibian	3			1|1;2;3			2905	0	shangyi		0	0	0	0	1									1	
+201704	/xifu_s/b_qianfu/b_xiabai/b_xiabai1/suanpai_dafanjaioxiabai_shibian	3			1|4;5;6			2905	0	shangyi		0	0	0	0	1									1	
+2014	/xifu_s/b_qianfu/b_xiabai/b_xiabai2	0		2927|2916		大圆角下摆							1				PW004/dayuanjiaoxiabai.jpg						0		0	
+201401	/xifu_s/b_qianfu/b_xiabai/b_xiabai2/danpai_dayuanjiaoxiabai	3			0|1;2;3	大圆角下摆		2905	0	shangyi		0	0	0	0	1	PW004/dayuanjiaoxiabai.jpg						0		1	
+201402	/xifu_s/b_qianfu/b_xiabai/b_xiabai2/suanpai_dayuanjiaoxiabai	3			0|4;5;6	大圆角下摆		2905	0	shangyi		0	0	0	0	1	PW004/dayuanjiaoxiabai.jpg						0		1	
+201403	/xifu_s/b_qianfu/b_xiabai/b_xiabai2/danpai_dayuanjiaoxiabai_shibian	3			1|1;2;3			2905	0	shangyi		0	0	0	0	1									1	
+201404	/xifu_s/b_qianfu/b_xiabai/b_xiabai2/suanpai_dayuanjiaoxiabai_shibian	3			1|4;5;6			2905	0	shangyi		0	0	0	0	1									1	
+2013	/xifu_s/b_qianfu/b_xiabai/b_xiabai3	0		2927|2916		普通下摆							1				PW004/putongxiabai.jpg						0		0	
+201301	/xifu_s/b_qianfu/b_xiabai/b_xiabai3/suanpai_putongxiabai	3			0|4;5;6	普通下摆		2905	0	shangyi		0	0	0	0	1	PW004/putongxiabai.jpg						0		1	
+201302	/xifu_s/b_qianfu/b_xiabai/b_xiabai3/danpai_putongxiabai	3			0|1;2;3	普通下摆		2905	0	shangyi		0	0	0	0	1	PW004/putongxiabai.jpg						0		1	
+201303	/xifu_s/b_qianfu/b_xiabai/b_xiabai3/danpai_putongxiabai_shibian	3			1|1;2;3			2905	0	shangyi		0	0	0	0	1									1	
+201304	/xifu_s/b_qianfu/b_xiabai/b_xiabai3/suanpai_putongxiabai_shibain	3			1|4;5;6			2905	0	shangyi		0	0	0	0	1									1	
+2015	/xifu_s/b_qianfu/b_xiabai/b_xiabai4	0		2927|2916		小圆角下摆							1				PW004/xiaoyuanjiaoxiabai.jpg						0		0	
+201501	/xifu_s/b_qianfu/b_xiabai/b_xiabai4/suanpai_xiaoyuanjiaoxiabai	3			0|4;5;6	小圆角下摆		2905	0	shangyi		0	0	0	0	1	PW004/xiaoyuanjiaoxiabai.jpg						0		1	
+201502	/xifu_s/b_qianfu/b_xiabai/b_xiabai4/danpai_xiaoyuanjiaoxiabai	3			0|1;2;3	小圆角下摆		2905	0	shangyi		0	0	0	0	1	PW004/xiaoyuanjiaoxiabai.jpg						0		1	
+201503	/xifu_s/b_qianfu/b_xiabai/b_xiabai4/danpai_xiaoyuanjiaoxiabai_shibain	3			1|1;2;3			2905	0	shangyi		0	0	0	0	1										
+201504	/xifu_s/b_qianfu/b_xiabai/b_xiabai4/suanpai_xiaoyuanjiaoxiabai_shibian	3			1|4;5;6			2905	0	shangyi		0	0	0	0	1									1	
+2016	/xifu_s/b_qianfu/b_xiabai/b_xiabai5	0		2927|2916		小方角下摆							1				PW004/xiaofanjiaoxiabai.jpg						0		0	
+201601	/xifu_s/b_qianfu/b_xiabai/b_xiabai5/danpai_xiaofanjiaoxiabai	3			0|1;2;3	小方角下摆		2905	0	shangyi		0	0	0	0	1	PW004/xiaofanjiaoxiabai.jpg						0		1	
+201602	/xifu_s/b_qianfu/b_xiabai/b_xiabai5/suanpai_xiaofanjiaoxiabai	3			0|4;5;6	小方角下摆		2905	0	shangyi		0	0	0	0	1	PW004/xiaofanjiaoxiabai.jpg						0		1	
+201603	/xifu_s/b_qianfu/b_xiabai/b_xiabai5/danpai_xiaofanjiaoxiabai_shibian	3			1|1;2;3			2905	0	shangyi		0	0	0	0	1									1	
+201604	/xifu_s/b_qianfu/b_xiabai/b_xiabai5/suanpai_xiaofanjiaoxiabai_shibian	3			1|4;5;6			2905	0	shangyi		0	0	0	0	1									1	
+2926	/xifu_s/b_qianfu/b_qianfu1	0		2927|2916									1												0	
+292601	/xifu_s/b_qianfu/b_qianfu1/danpai_qianfu_shibian	3			1|1;2;3				0	shangyi		0	0	0	0	1									1	
+292602	/xifu_s/b_qianfu/b_qianfu1/suanpai_qianfu_shibian	3			1|4;5;6				0	shangyi		0	0	0	0	1									1	
+292603	/xifu_s/b_qianfu/b_qianfu1/danpai_qianfu	3			0|1;2;3				0	shangyi		0	0	0	1	1									1	
+292604	/xifu_s/b_qianfu/b_qianfu1/suanpai_qianfu	3			0|4;5;6				0	shangyi		0	0	0	0	1									1	
+2927	/xifu_s/b_qianfu/b_shibian	1				饰边设计							1					-0.0205,-0.0663,0.151	0,180,3.733867E-05		0.031,0,0.823	4.170001,182.15,6.68781E-09			0	
+2928	/xifu_s/b_qianfu/b_shibian/b_shibian_you	0	1			下摆饰边							1		0		PW016/xiabaishibian.jpg						0.02		1	
+2929	/xifu_s/b_qianfu/b_shibian/b_shibian_wu	0	0			无饰边							1		1		PW016/NO_PW016.jpg						0.02		1	
+1504	/xifu_s/b_qianfu/qianfuzhedan	1							0	shangyi		0	0	0	1	1									1	
+2930	/xifu_s/b_xiuzi	1							0			0	1	0	1	1									0	
+2046	/xifu_s/b_xiuzi/zhenkachai	0				真开衩			0	shangyi		0	0	0	1	1	PW012/zhenkachai.jpg						0.15		1	
+2931	/xifu_s/b_xiuzi/b_xiuzi_niukou	1				袖子纽扣设计							1					-0.265,-0.2509,-0.0568	0,0,0		-0.567,-0.297,-0.232	0,57.3014,0			0	
+2035	/xifu_s/b_xiuzi/b_xiuzi_niukou/diezhuangsiliniu	0				叠装四粒钮			0			0	0	0	0	1	PW009/diezhuangsiliniu.jpg						0		1	sleeve_long_length_suit
+2034	/xifu_s/b_xiuzi/b_xiuzi_niukou/diezhuangsanliniu	0				叠装三粒钮			0			0	0	0	0	1	PW009/diezhuangsanliniu.jpg						0		1	sleeve_long_length_suit
+2033	/xifu_s/b_xiuzi/b_xiuzi_niukou/diezhuangliangliniu	0				叠装两粒钮			0			0	0	0	0	1	PW009/diezhuangliangliniu.jpg						0		1	sleeve_long_length_suit
+2032	/xifu_s/b_xiuzi/b_xiuzi_niukou/pingpushiliniu	0				平铺四粒钮			0			0	0	0	1	1	PW009/pingpushiliniu.jpg						0		1	sleeve_long_length_suit
+2031	/xifu_s/b_xiuzi/b_xiuzi_niukou/pingpusanliniu	0				平铺三粒钮			0			0	0	0	0	1	PW009/pingpusanliniu.jpg						0		1	sleeve_long_length_suit
+2030	/xifu_s/b_xiuzi/b_xiuzi_niukou/pingpuliangliniu	0				平铺两粒纽			0			0	0	0	0	1	PW009/pingpuliangliniu.jpg						0		1	sleeve_long_length_suit
+2932	/xifu_s/b_shoujingdai	1				手巾袋设计			0			0	1	0	1	1		-0.1223,0.1468,0.1183	0,160,0		-0.132,0.153,0.585	0,180,0			0	
+2019	/xifu_s/b_shoujingdai/huxindai	0				弧形袋			0	shangyi		0	0	0	0	1	PW005/huxindai.jpg						0.02		1	
+2020	/xifu_s/b_shoujingdai/tiedai	0				贴袋			0	shangyi		0	0	0	0	1	PW005/tiedai.jpg						0.02		1	
+2018	/xifu_s/b_shoujingdai/xiangshidai	0				箱式袋			0	shangyi		0	0	0	1	1	PW005/xiangshidai.jpg						0.02		1	
+2933	/xifu_s/b_shoujingdai/b_wushoujingdai	0				无手巾袋			0			0	1	0	0	1	PW005/NO_PW005.jpg						0.02		0	
+2934	/xifu_s/b_yaodai	1				腰带设计			0			0	1	0	1	1		0.1332,-0.1655,0.11	0,210,0		0.388,-0.159,0.454	0,216.2736,0			0	
+2028	/xifu_s/b_yaodai/suankaixianwudaigai	0				双开线无袋盖			0	shangyi		0	0	0	0	1	PW006/suankaixianwudaigai.jpg						0.02		1	
+2023	/xifu_s/b_yaodai/suanqianxianxiewadai	0				双嵌线斜挖袋			0	shangyi		0	0	0	0	1	PW006/suanqianxianxiewadai.jpg						0.02		1	
+2022	/xifu_s/b_yaodai/suanqianxianwadai	0				双嵌线挖袋			0	shangyi		0	0	0	0	1	PW006/suanqianxianwadai.jpg						0.02		1	
+2025	/xifu_s/b_yaodai/xieyaowadai	0				大小斜腰挖袋			0	shangyi		0	0	0	0	1	PW006/daxiaoxieyaowadai.jpg						0.02		1	
+2027	/xifu_s/b_yaodai/youdaigaitiedai	0				有袋盖贴袋			0	shangyi		0	0	0	0	1	PW006/youdaigaitiedai.jpg						0.02		1	
+2024	/xifu_s/b_yaodai/yaowadai	0				大小腰挖袋			0	shangyi		0	0	0	1	1	PW006/daxiaoyaowadai.jpg						0.02		1	
+2026	/xifu_s/b_yaodai/yaotiedai	0				腰贴袋			0	shangyi		0	0	0	0	1	PW006/yaotiedai.jpg						0.02		1	
+2935	/xifu_s/b_yaodai/b_wuyaodai	0				无口袋			0			0	1	0	0	1	PW006/NO_PW006.jpg						0.02		1	
+2936	/xifu_s/b_lingqiandai	1							0			0	1	0	1	1									0	
+2937	/xifu_s/b_lingqiandai/b_zuolingqiandai	1				零钱袋设计			0			0	1	0	1	1		-0.16,-0.08,0.055	0,145,0		-0.38,-0.11,0.5	0,151,0			0	
+2938	/xifu_s/b_lingqiandai/b_zuolingqiandai/b_zuolingqiandai	0				无零钱袋			0			0	1	0	1	1	PW014/NO_PW014.jpg						0.02		0	
+2450	/xifu_s/b_lingqiandai/b_zuolingqiandai/youdaigaixiecundai002	0							0	shangyi		0	0	0	0	1	PW014/youdaigaixiecundai.jpg						0.02		1	
+2451	/xifu_s/b_lingqiandai/b_zuolingqiandai/youdaigaicundai002	0				有袋盖存袋			0	shangyi		0	0	0	0	1	PW014/youdaigaicundai.jpg						0.02		1	
+2939	/xifu_s/b_lingqiandai/b_yuolingqiandai	1				零钱袋设计			0			0	1	0	1	1		0.16,-0.08,0.055	0,215,0		0.38,-0.11,0.5	0,209,0			0	
+2940	/xifu_s/b_lingqiandai/b_yuolingqiandai/b_yuolingqiandai	0				无零钱袋			0			0	1	0	1	1	PW014/NO_PW014.jpg						0.02		0	
+2452	/xifu_s/b_lingqiandai/b_yuolingqiandai/youdaigaixiecundai001	0							0	shangyi		0	0	0	0	1	PW014/youdaigaixiecundai.jpg						0.02		1	
+2042	/xifu_s/b_lingqiandai/b_yuolingqiandai/youdaigaicundai001	0				有袋盖存袋			0	shangyi		0	0	0	0	1	PW014/youdaigaicundai.jpg						0.02		1	
+1609	/xifu_s/jiazi	1							0	jiazi01	jiazi02	0	0	1	1	1									0	
+1507	/xifu_s/jiazi/shou	0							0	shou_		0	0	1	1	1									0	

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">比朗男装定制</string>
+    <string name="ok">完成</string>
+    <string name="wechat">微信</string>
+    <string name="alipay">支付宝</string>
+    <string name="upmp">银联</string>
+    <string name="bfb">百度钱包</string>
+    <string name="jdpay">京东支付</string>
+    <string name="confirm">确认</string>
+    <string name="yuan">元</string>
+    <string name="donateFailMessage">\u3000\u3000感谢你的爱心，\n但是系统出现了一些错误</string>
+    <string name="validationErrors">错误</string>
+    <string name="notInstalled">未安装支付软件</string>
+    <string name="amount">支付金额</string>
+    <string name="missingImage">图片加载失败</string>
+    <string name="cancel">返回</string>
+    <string name="title_activity_main">比朗男装定制</string>
+    <string name="hello_world">信息!</string>
+    <string name="pingpp_title_activity_pay">支付</string>
+    <string name="pingpp_title_activity_pay_sucessed">支付成功</string>
+    <string name="pingpp_title_activity_pay_filed">支付失败</string>
+    <string name="pingpp_title_activity_success">支付成功</string>
+    <string name="pingpp_create_bill">成功下单</string>
+    <string name="pingpp_label_bill_name">订单号</string>
+    <string name="pingpp_label_amount">总金额</string>
+    <string name="pingpp_title_activity_pay_failed">支付失败</string>
+    <string name="pingpp_pay_failed">支付失败</string>
+    <string name="pingpp_back_activity_pay">再试一次</string>
+    <string name="pingpp_copyright">支付接入由 Ping++ 提供</string>
+    <string name="pingpp_alipay">支付宝</string>
+    <string name="pingpp_wechat">微信支付</string>
+    <string name="pingpp_bfb">百度钱包</string>
+    <string name="pingpp_upacp">银联支付</string>
+    <string name="pingpp_yeepay_wap">易宝支付</string>
+    <string name="pingpp_jdpay_wap">京东支付</string>
+    <string name="pingpp_prompt_pay_falied">可能因为网络过于繁忙</string>
+    <string name="pingpp_continue_buy">继续购物</string>
+    <string name="pingpp_pay_complete">完成</string>
+    <string name="pingpp_add_new_card">添加新银行卡支付</string>
+
+</resources>

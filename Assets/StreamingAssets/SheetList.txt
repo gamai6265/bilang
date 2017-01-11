@@ -1,0 +1,12 @@
+﻿Client/StrDictionary.txt
+Client/ClientResVersion.txt
+Client/Config.ini
+Client/ResCache.txt
+Client/ResVersion.txt
+Client/UiConfig.txt
+Client/Models.txt
+Client/Globals.txt
+Client/Models/Shirt.txt
+Client/Models/Suits.txt
+Client/Models/Trousers.txt
+Client/ModelsType.txt

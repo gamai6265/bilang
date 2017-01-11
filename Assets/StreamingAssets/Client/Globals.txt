@@ -1,0 +1,3 @@
+﻿Id	ModelType	Name	SampleImage	Materials	Instruction	QueryType	FabricStyle
+1	1		PS000/button.png	niukou	钮扣	1	13
+#2	1		PS000/thread.png	yifenxian	衣缝线	2	14
